@@ -12,4 +12,4 @@
 
 ## Projects Diary
 
-* [Page 2](projects-diary/page-2.md)
+* [#1-Gambler bot](projects-diary/page-2.md)

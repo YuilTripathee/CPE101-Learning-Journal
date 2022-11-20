@@ -1,3 +1,2 @@
-# Week 4 - 3D CAD
+# Week 4
 
-TinkerCAD

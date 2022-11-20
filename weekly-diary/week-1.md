@@ -1,5 +1,2 @@
-# Week 1 - Introduction, Syllabus
+# Week 1 -
 
-* not able to attend onsite class (visa delays)
-* all the references are coming from Facebook guide (syllabus, literature review)
-*

@@ -7,11 +7,8 @@ Speaker(s):
 1. **Asst. Prof. Dr. Nuttanart Facundes**
 2. **Aj. Tarntip Liuchalermwongs**
 
-# Key notes 📝
+## Key notes 📝
 
 * Richard Turerer: My invention that made peace with lions
 
 _More content to come._
-
-
-

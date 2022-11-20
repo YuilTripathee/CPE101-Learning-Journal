@@ -5,7 +5,7 @@
 ## Weekly Diary
 
 * [Week 1 - Introduction, Syllabus](weekly-diary/week-1-introduction-syllabus.md)
-* [Week 2 - Storytelling for communication, consensus](weekly-diary/week-2.md)
+* [Week 2 - Storytelling for communication, consensus](weekly-diary/week-2-storytelling-for-communication-consensus.md)
 * [Week 3 - 2D CAD](weekly-diary/week-3.md)
 * [Week 4 - 3D CAD](weekly-diary/week-4.md)
 * [Week 5 - TinkerCAD Circuits](weekly-diary/week-5-tinkercad-circuits.md)

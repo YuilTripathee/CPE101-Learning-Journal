@@ -7,7 +7,7 @@
 * [Week 1 - Introduction, Syllabus](weekly-diary/week-1-introduction-syllabus.md)
 * [Week 2 - Storytelling for communication, consensus](weekly-diary/week-2-storytelling-for-communication-consensus.md)
 * [Week 3 - 2D CAD](weekly-diary/week-3-2d-cad.md)
-* [Week 4 - 3D CAD](weekly-diary/week-4.md)
+* [Week 4 - 3D CAD](weekly-diary/week-4-3d-cad.md)
 * [Week 5 - TinkerCAD Circuits](weekly-diary/week-5-tinkercad-circuits.md)
 * [Week 6 - micro:Bit](weekly-diary/week-6-micro-bit.md)
 * [Week 7 - Build a Simple Game](weekly-diary/week-7-build-a-simple-game.md)

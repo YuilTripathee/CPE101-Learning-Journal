@@ -1,3 +1,3 @@
 # Week 4 - 3D CAD Drawing
 
-Using TinkerCAD.
+Using TinkerCAD software.

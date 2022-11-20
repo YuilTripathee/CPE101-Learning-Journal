@@ -6,7 +6,7 @@ summarize here...
 
 Date: Event: **KMUTT S4 11th Floor Room 1115** Venue: Speaker(s):
 
-## Key notes 📝
+## Keynotes 📝
 
 * points to be made
 * Drawing an Android logo in 2D using LibreCAD

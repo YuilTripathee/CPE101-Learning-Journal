@@ -12,5 +12,6 @@ Please be reminded that the content is subject to getting updated in case of add
 
 Coming soon...
 
+## References
 
-
+* [https://yuil.notion.site/CPE-123-Journal-21217cfd55b4406eb55e5141a6116279](https://yuil.notion.site/CPE-123-Journal-21217cfd55b4406eb55e5141a6116279)

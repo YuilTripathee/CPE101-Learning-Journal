@@ -23,3 +23,9 @@
 ## Projects Diary
 
 * [#1-Gambler bot](projects-diary/page-2.md)
+* [Final Project](projects-diary/final-project.md)
+
+## Experiments Diary
+
+* [Try running code of different languages using micro:Bit](experiments-diary/try-running-code-of-different-languages-using-micro-bit.md)
+* [Collaboration in Coding Team](experiments-diary/collaboration-in-coding-team.md)

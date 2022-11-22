@@ -1,4 +1,6 @@
-# Gambler bot - CPE101 Project
+# #1 - Gambler bot
+
+
 
 ## Challenge criteria
 
@@ -10,18 +12,18 @@ The work was to pick up and drop the dices on the target:
 
 Target dimensions:
 
-- Rectangular platform
-- Dimensions (h=45mm, w=92mm, l=92mm)
+* Rectangular platform
+* Dimensions (h=45mm, w=92mm, l=92mm)
 
 Dimensions of cubic dices:
 
-- `A`: Rounded edge, (15 x 15 x 15) mm
-- `B`: Rounded edge, (12 x 12 x 12) mm
+* `A`: Rounded edge, (15 x 15 x 15) mm
+* `B`: Rounded edge, (12 x 12 x 12) mm
 
 Terrain:
 
-- PVC flooring
-- Slippering (but still workable for micro:Bit Robot Platform)
+* PVC flooring
+* Slippering (but still workable for micro:Bit Robot Platform)
 
 ## Bot requirements
 
@@ -31,4 +33,3 @@ Options:
 
 1. Rack and pinion system
 2. Standard servo based rotation
-

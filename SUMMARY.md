@@ -22,7 +22,7 @@
 
 ## Projects Diary
 
-* [#1-Gambler bot](projects-diary/page-2.md)
+* [#1 - Gambler bot](projects-diary/1-gambler-bot.md)
 * [Final Project](projects-diary/final-project.md)
 
 ## Experiments Diary

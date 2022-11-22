@@ -36,7 +36,9 @@ Servo turn: 180 degrees
 Options:
 
 1. Rack and pinion system
-2. Standard servo-based rotation
+2. Standard servo-based rotation (like this one: [Robotics Training - Basic Rack & Pinion Lift - YouTube](https://www.youtube.com/watch?v=N6F3D6s18dQ&ab_channel=WestonSchreiber))
+
+Other example options include: [5 Lifting Mechanisms - YouTube](https://www.youtube.com/watch?v=tXo4UpmFGCc&ab_channel=Andrew.BradshawSDSS)
 
 Dropping slider ramp:
 
@@ -44,3 +46,9 @@ Drop triangle (right triangle): $$h = 50 \text{mm, } b = 50\cos{60\degree}\text{
 
 TODO: include media files from TinkerCAD and Pictures taken.
 
+## References
+
+- [3Dprint | Tinkercad](https://www.tinkercad.com/things/9RLEB5m4vX1-bodacious-waasa)
+- [3D Printable Linear Servo Actuators by Ali](https://www.myminifactory.com/object/3d-print-77542) for rack and pinion feasiblity check!
+
+Communication platform: [• Discord | #general | Group D6](https://discord.com/channels/1021790697445130241/1021790698019754096)

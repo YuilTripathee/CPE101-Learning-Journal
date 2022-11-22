@@ -40,7 +40,7 @@ Options:
 
 Dropping slider ramp:
 
-Drop triangle (right triangle): $$h = 50 \text{mm, } b = 50\cos{60\degree}\text{, } p = 25 \text{mm}$$, keeping the \$$$\theta$$$  by testing the ramp going through 30, 45, and 60 degrees (for standard servo-based rotation system).
+Drop triangle (right triangle): $$h = 50 \text{mm, } b = 50\cos{60\degree}\text{, } p = 25 \text{mm}$$, keeping the $$\theta$$ values by testing the ramp going through 30, 45, and 60 degrees (for standard servo-based rotation system).
 
 TODO: include media files from TinkerCAD and Pictures taken.
 

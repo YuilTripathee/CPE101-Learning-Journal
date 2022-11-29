@@ -15,7 +15,9 @@ description: Introduction, Syllabus briefings
 
 > * Any materials regarding the course will go here
 
-### Significance (the 'so what?') 💎
+## Impact  (the 'so what?' 🚀
+
+How the session turned out to be of value if it did?
 
 > * Just wondering about the syllabus.
 > * Relatable to the work we do currently.

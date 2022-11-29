@@ -30,9 +30,7 @@ How the session turned out to be of value if it did?
 > * Here you can write the details about the coursework or the activity
 > * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
 
-### Further lookup suggestions 🔍
-
-> List of further lookup suggestions
+There is no more detail to add to this week's introductory session. Besides, looking forward to the upcoming contents of the course seem to be very interesting to learn.
 
 ### References 🔖
 

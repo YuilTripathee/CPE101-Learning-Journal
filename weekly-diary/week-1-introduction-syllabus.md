@@ -1,5 +1,39 @@
+---
+description: First class of CPE101 - Engineering Exploration
+---
+
 # Week 1 - Introduction, Syllabus
 
 * not able to attend onsite class (visa delays)
-* all the references are coming from Facebook guide (syllabus, literature review)
+* all the references are coming from the Facebook guide (syllabus, literature review)
 
+## A brief introduction (the 'what?') 🤷‍♂️
+
+* It was the first day of the CPE101 Coursework.
+
+> * Any materials regarding the course will go here
+
+## Impact (the 'so what?') 🚀
+
+How the session turned out to be of value if it did?
+
+> * Just wondering about the syllabus.
+> * Relatable to the work we do currently.
+
+## Reflections (the 'now what?') 🤔
+
+> * Potential applications of the works and the lessons carried out during the course.
+> * Any suggestions to yourself, the organization, and other stakeholders?
+
+## A detailed exploration of this coursework/activity 📄
+
+> * Here you can write the details about the coursework or the activity
+> * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
+
+### Further lookup suggestions 🔍
+
+> List of further lookup suggestions
+
+### References 🔖
+
+> List of references

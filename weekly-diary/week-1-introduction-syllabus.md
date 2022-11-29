@@ -7,9 +7,7 @@ description: Introduction, Syllabus briefings
 * not able to attend onsite class (visa delays)
 * all the references are coming from the Facebook guide (syllabus, literature review)
 
-## Learning reflection
-
-### A brief introduction (the 'what?') 🤷‍♂️
+## A brief introduction (the 'what?') 🤷‍♂️
 
 * It was the first day of the CPE101 Coursework.
 
@@ -22,7 +20,7 @@ How the session turned out to be of value if it did?
 > * Just wondering about the syllabus.
 > * Relatable to the work we do currently.
 
-### Reflections (the 'now what?') 🤔
+## Reflections (the 'now what?') 🤔
 
 > * Potential applications of the works and the lessons carried out during the course.
 > * Any suggestions to yourself, the organization, and other stakeholders?

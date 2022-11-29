@@ -26,6 +26,8 @@ How the session turned out to be of value if it did?
 > * Potential applications of the works and the lessons carried out during the course.
 > * Any suggestions to yourself, the organization, and other stakeholders?
 
+> End of learning reflection, please proceed to below reading for the further details only.
+
 ## A detailed exploration of this coursework/activity 📄
 
 > * Here you can write the details about the coursework or the activity

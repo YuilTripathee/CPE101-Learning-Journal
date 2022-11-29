@@ -8,9 +8,11 @@ Submission file: *Coming soon...*
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 
-* It was the first day of the CPE101 Coursework.
+### Constructive Solid Geometry
 
-> * Any materials regarding the course will go here
+### **Tinker CAD**
+
+
 
 ## Impact  (the 'so what?') 🚀
 
@@ -23,6 +25,8 @@ How the session turned out to be of value if it did?
 
 > * Potential applications of the works and the lessons carried out during the course.
 > * Any suggestions to yourself, the organization, and other stakeholders?
+
+> End of learning reflection, please proceed to below reading for the further details only.
 
 ## A detailed exploration of this coursework/activity 📄
 

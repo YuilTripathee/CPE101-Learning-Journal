@@ -1,14 +1,14 @@
-# Week 3 - 2D CAD using LibreCAD application
+# Week 3 - 2D CAD
 
 summarize here...
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 
-#### LibreCAD
+* It was the first day of the CPE101 Coursework.
 
-It is an open-source CAD software.
+> * Any materials regarding the course will go here
 
-## Impact (the 'so what?') 🚀
+## Impact  (the 'so what?') 🚀
 
 How the session turned out to be of value if it did?
 

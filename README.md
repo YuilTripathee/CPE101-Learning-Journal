@@ -4,6 +4,12 @@ Just a test content on [https://cpe101.kmutt.yuil.com.np/](https://cpe101.kmutt.
 
 
 
+| Name   | Yuil Tripathee                   |
+| ------ | -------------------------------- |
+| ID     | 650 7050 3480                    |
+| Year   | (1/2022)                         |
+| Course | CPE101 - Engineering Exploration |
+
 Name: _Yuil Tripathee_ ID:_650 7050 3480_
 
 Notebook link: _coming soon..._

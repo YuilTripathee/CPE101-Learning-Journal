@@ -1,6 +1,12 @@
-# Week 3 - 2D CAD
+---
+description: Introduction, Syllabus briefings
 
-summarize here...
+---
+
+# Week `X` - `title`
+
+* not able to attend onsite class (visa delays)
+* all the references are coming from the Facebook guide (syllabus, literature review)
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 

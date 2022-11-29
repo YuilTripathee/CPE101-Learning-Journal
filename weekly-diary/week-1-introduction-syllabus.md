@@ -1,11 +1,9 @@
----
-description: Introduction, Syllabus briefings
----
-
 # Week 1 - Introduction, Syllabus
 
 * not able to attend onsite class (visa delays)
 * all the references are coming from the Facebook guide (syllabus, literature review)
+
+### About the&#x20;
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 
@@ -13,7 +11,7 @@ description: Introduction, Syllabus briefings
 
 > * Any materials regarding the course will go here
 
-## Impact  (the 'so what?' 🚀
+## Impact (the 'so what?' 🚀
 
 How the session turned out to be of value if it did?
 

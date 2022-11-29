@@ -4,8 +4,6 @@ description: Mid term tasks
 
 # #1 - Gambler bot
 
-
-
 ## Challenge criteria
 
 ### Ramp requirements

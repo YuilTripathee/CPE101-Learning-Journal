@@ -15,8 +15,6 @@ description: Introduction, Syllabus briefings
 
 > * Any materials regarding the course will go here
 
-* Any materials regarding the course will go here
-
 ### Significance (the 'so what?')
 
 > * Just wondering about the syllabus.

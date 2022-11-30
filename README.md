@@ -2,8 +2,7 @@
 
 Just a test content on [https://cpe101.yuil.com.np/](https://cpe101.yuil.com.np/)
 
-> About the site! The website is experiencing some glitches. Currently, work is in progress to fix this soon and the content will be updated immediately after the fix.
-
+> About the site! The website is experiencing some glitches. **Currently, work is in progress to fix this soon and the content will be updated immediately after the fix.**
 
 | Name   | Yuil Tripathee                   |
 | ------ | -------------------------------- |
@@ -11,7 +10,7 @@ Just a test content on [https://cpe101.yuil.com.np/](https://cpe101.yuil.com.np/
 | Year   | (1/2022)                         |
 | Course | CPE101 - Engineering Exploration |
 
-Please be reminded that the content is subject to getting updated in case of additional information is suitable to the context (as the Notion platform uses dynamic URLs, the URL of the specific page may change which is navigable through the master link presented above).&#x20;
+Please be reminded that the content is subject to getting updated in case of additional information is suitable to the context (as the Notion platform uses dynamic URLs, the URL of the specific page may change which is navigable through the master link presented above).
 
 ## References
 

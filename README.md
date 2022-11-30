@@ -1,6 +1,6 @@
 # Introductions
 
-Just a test content on [https://cpe101.kmutt.yuil.com.np/](https://cpe101.kmutt.yuil.com.np/)
+Just a test content on [https://cpe101.yuil.com.np/](https://cpe101.yuil.com.np/)
 
 
 

@@ -2,6 +2,7 @@
 
 Just a test content on [https://cpe101.yuil.com.np/](https://cpe101.yuil.com.np/)
 
+> About the site! The website is experiencing some glitches. Currently, work is in progress to fix this soon and the content will be updated immediately after the fix.
 
 
 | Name   | Yuil Tripathee                   |

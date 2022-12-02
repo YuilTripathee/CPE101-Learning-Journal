@@ -24,7 +24,7 @@ Expert review of micro:Bit board:
 
 * [micro:bit for Robotics - YouTube](https://www.youtube.com/watch?v=iwaRidlm2RM&ab_channel=KevinMcAleer)
 * [BBC micro:bit v2 Review! : A Good Recommendation? - YouTube](https://www.youtube.com/watch?v=QHiXLPorrF4&ab_channel=Robu.in)
-* [102110408 Seeed Technology Co., Ltd | คอมพิวเตอร์แบบฝัง | DigiKey](https://www.digikey.co.th/th/products/detail/seeed-technology-co.,-ltd/102110408/16680580?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=Pmax Shopping_Product_Zombie SKU&utm_term=&productid=16680580)
+* [102110408 Seeed Technology Co., Ltd | คอมพิวเตอร์แบบฝัง | DigiKey](https://www.digikey.co.th/th/products/detail/seeed-technology-co.,-ltd/102110408/16680580)
 
 
 

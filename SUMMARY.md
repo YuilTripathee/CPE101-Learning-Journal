@@ -18,6 +18,7 @@
 * [Week 12 - Cyber Security](weekly-diary/week-12-cyber-security.md)
 * [Week 13 - The Three Challenges](weekly-diary/week-13-the-three-challenges.md)
 * [Week 14 - Project Progress Report](weekly-diary/week-14-project-progress-report.md)
+* [Week 15 - CPE101 Game Day](weekly-diary/week-15-cpe101-game-day.md)
 * [Holidays](weekly-diary/holidays.md)
 
 ## Projects Diary

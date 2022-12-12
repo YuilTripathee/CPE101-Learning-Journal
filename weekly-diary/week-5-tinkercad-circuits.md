@@ -1,3 +1,7 @@
+---
+description: Simulating circuits in TinkerCAD
+---
+
 # Week 5 - TinkerCAD Circuits
 
 September 16, 2022
@@ -8,12 +12,12 @@ September 16, 2022
 
 We started with problem solving techniques and norms in this session. Problem solving can be broken down to following concise steps:
 
-- **Identify** the problem (quantize it)
-- Think of **expected/possible solution**
-- **Gather more information** on each approach (test cases, expert reviews, surveys)
-- Combine and **evaluate** the best among the alternatives
-- **Attempt** implementation of the idea
-- **Record** the consequence of applied solution
+* **Identify** the problem (quantize it)
+* Think of **expected/possible solution**
+* **Gather more information** on each approach (test cases, expert reviews, surveys)
+* Combine and **evaluate** the best among the alternatives
+* **Attempt** implementation of the idea
+* **Record** the consequence of applied solution
 
 It is advisable to get a lot of perspectives for evaluating the results of applied solutions.
 
@@ -23,22 +27,22 @@ The second topic of this session was about fundamental electronic devices. We've
 
 Electronics is an integral building block of applied computer projects. Let's summarize some terms:
 
-- **Resistors** - converts electricity to heat (blocks current flow)
-- **Rheostats** - variable resistors (and potentiometer if 3 terminals connected)
-- **Capacitor** - used for bypass systems, noise filters (maintains steady flow of current)
-- **Inductors** - oppose change in voltage (used for choking, energy transfer - mutual inductance)
-- **Diodes** - allows one side flow of current
-- **Breadboard** - board for electronic prototyping without having to build PCBs, which are expensive
+* **Resistors** - converts electricity to heat (blocks current flow)
+* **Rheostats** - variable resistors (and potentiometer if 3 terminals connected)
+* **Capacitor** - used for bypass systems, noise filters (maintains steady flow of current)
+* **Inductors** - oppose change in voltage (used for choking, energy transfer - mutual inductance)
+* **Diodes** - allows one side flow of current
+* **Breadboard** - board for electronic prototyping without having to build PCBs, which are expensive
 
 **Digital Circuits**
 
 These circuits are capable of processing signals. They are made of logic gates. And, the logic gates are made by multiple transistors (TTL logic). NAND and NOR gate can build all of the 7 logic gates. But, NAND is more preferred over NOR gate.
 
-[TODO: Image of Logic Gate Table]
+\[TODO: Image of Logic Gate Table]
 
 We also had performed an assignment, which made the understanding of these topics even more obvious.
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
 Considering short term impact, we are going to use electronics components in the gambler bot and possibly in the final project. Every robot is a sensor-controller-actuator system, which makes the total use of the topics we learned in this session.
 
@@ -56,6 +60,6 @@ We've also tried simulating electric circuits and the Arduino itself in this web
 
 ## References 🔖
 
-- Resistor color coding: https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code
-- Capacitor color coding: https://www.electronics-tutorials.ws/capacitor/cap_5.html
-- Finding capacitance: https://www.electricaltechnology.org/2022/01/capacitor-color-codes.html
+* Resistor color coding: https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code
+* Capacitor color coding: https://www.electronics-tutorials.ws/capacitor/cap\_5.html
+* Finding capacitance: https://www.electricaltechnology.org/2022/01/capacitor-color-codes.html

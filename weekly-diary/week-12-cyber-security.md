@@ -1,8 +1,12 @@
+---
+description: Learning different aspect of cyber security
+---
+
 # Week 12 - Cyber Security
 
 November 11, 2022
 
-Date: 2022-11-11 09:39 
+Date: 2022-11-11 09:39
 
 Event: Classroom lecture
 
@@ -16,11 +20,11 @@ In order to be able to stop a hack from being committed by hackers and other ano
 
 ### CIA Triad
 
-The CIA triad is an information security model made up of the three main components of confidentiality, integrity, and availability. It is used to guide organizations in maintaining a secure information system by ensuring that all three components are addressed. 
+The CIA triad is an information security model made up of the three main components of confidentiality, integrity, and availability. It is used to guide organizations in maintaining a secure information system by ensuring that all three components are addressed.
 
-- **Confidentiality** refers to ensuring that only authorized users can access sensitive information. 
-- **Integrity** refers to ensuring that data is accurate and reliable. 
-- **Availability** refers to ensuring that data and systems are accessible when needed by authorized users.
+* **Confidentiality** refers to ensuring that only authorized users can access sensitive information.
+* **Integrity** refers to ensuring that data is accurate and reliable.
+* **Availability** refers to ensuring that data and systems are accessible when needed by authorized users.
 
 ## Current cyber crimes development (focused in ASEAN region)
 
@@ -30,9 +34,9 @@ Following is a list of potential threat actors as per the lecture: criminal, gov
 
 We must strive to avoid clicking on URLs that automatically redirect, and we must always scan USB drives before connecting them to our digital devices in order to prevent someone from infecting our computer system with malware or a virus.
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
-> Cybersecurity is important because it helps protect organizations, businesses, and individuals from malicious attacks that could compromise their sensitive data and personal information. Cybersecurity is also important to protect networks and systems from unauthorized access, disruptions, or modifications that can compromise the confidentiality, integrity, and availability of data and systems. 
+> Cybersecurity is important because it helps protect organizations, businesses, and individuals from malicious attacks that could compromise their sensitive data and personal information. Cybersecurity is also important to protect networks and systems from unauthorized access, disruptions, or modifications that can compromise the confidentiality, integrity, and availability of data and systems.
 >
 > As more organizations rely on digital networks and systems to store and send information, cybersecurity is becoming more and more crucial. Organizations may defend their data and users from thieves, hackers, and other nefarious actors by maintaining the security of these networks and systems.
 
@@ -116,10 +120,9 @@ We must strive to avoid clicking on URLs that automatically redirect, and we mus
 >     * black: fully dope!!!
 >   * example work: https://hackthissite.org/
 >
-> ### Resources 🎁
+> #### Resources 🎁
 >
 > The additional resources provided in the class were osboxes.org website, Parrot 7zipped ISO file, setup for Oracle Virtualbox, and Ubuntu ova file (open virtualization format archive).
->
 
 ### References 🔖
 

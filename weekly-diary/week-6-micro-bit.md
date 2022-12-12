@@ -1,3 +1,7 @@
+---
+description: Learning about a versatile microcontroller
+---
+
 # Week 6 - micro:Bit
 
 September 23, 2022
@@ -8,19 +12,19 @@ MicroBIT - Many programming options (I prefer Python and JavaScript over MakeCod
 
 The focus of week 6 is becoming familiar with the features and operation of the Micro:bit. It is an open source ARM based educational embedded system. Let's take a quick recap about MicroBit specifications:
 
-| Name         | BBC micro:Bit                                                |
-| ------------ | ------------------------------------------------------------ |
-| CPU          | v2: Nordic nRF52833, 64 MHz [ARM Cortex-M4](https://en.wikipedia.org/wiki/ARM_Cortex-M4) core, 512 KB Flash, 128 KB RAM |
-| Connectivity | [Bluetooth LE](https://en.wikipedia.org/wiki/Bluetooth_LE), [MicroUSB](https://en.wikipedia.org/wiki/MicroUSB), edge connector |
-| Release date | v2: 13 October 2020                                          |
+| Name         | BBC micro:Bit                                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| CPU          | v2: Nordic nRF52833, 64 MHz [ARM Cortex-M4](https://en.wikipedia.org/wiki/ARM\_Cortex-M4) core, 512 KB Flash, 128 KB RAM        |
+| Connectivity | [Bluetooth LE](https://en.wikipedia.org/wiki/Bluetooth\_LE), [MicroUSB](https://en.wikipedia.org/wiki/MicroUSB), edge connector |
+| Release date | v2: 13 October 2020                                                                                                             |
 
-[Photo of micro Bit]
+\[Photo of micro Bit]
 
- The Micro:bit is a portable computer that shows us how hardware and software interact with each other. It has few buttons, many sensors, an LED 2D display matrix, and other programmable I/O functions. The micro:bit also has built-in temperature and light sensors, as well as connectors around the bottom that can be used to add extras, since it has adequate GPIO ports.
+The Micro:bit is a portable computer that shows us how hardware and software interact with each other. It has few buttons, many sensors, an LED 2D display matrix, and other programmable I/O functions. The micro:bit also has built-in temperature and light sensors, as well as connectors around the bottom that can be used to add extras, since it has adequate GPIO ports.
 
 It can be programmed using USB connector and desktop, but also by pairing it to the tablet/mobile devices via Bluetooth. Coding process is way too convenient. Additionally, it has two programmable buttons and 25 LED lights, which can be utilized for countless possibilities. Creative ideas are still there to be developed regarding the microcontrollers.
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
 It is a well rounded board to explore electronics, prototyping, testing and coding with a gamified experience. The micro:bit can be configured to perform a variety of tasks, including acting as a game controller, a digital watch, and a home security monitor. Therefore, we may utilize the micro:bit for a variety of tasks and can adapt them to employ them in projects to control the actions and performances of small robots.
 
@@ -47,14 +51,11 @@ Additional ways to program a micro:Bit
 * [BBC Micro:bit C++ Getting Started : 7 Steps - Instructables](https://www.instructables.com/BBC-Microbit-C-Getting-Started/)
 * [Python Editor for micro:bit](https://python.microbit.org/v/beta)
 * [Microbit with Gobot](https://gobot.io/documentation/platforms/microbit/)
-* [BBC MicroBit V2 — Zephyr Project Documentation](https://docs.zephyrproject.org/latest/boards/arm/bbc_microbit_v2/doc/index.html)
-* [BBC micro:bit V2 — PlatformIO latest documentation](https://docs.platformio.org/en/latest/boards/nordicnrf52/bbcmicrobit_v2.html)
+* [BBC MicroBit V2 — Zephyr Project Documentation](https://docs.zephyrproject.org/latest/boards/arm/bbc\_microbit\_v2/doc/index.html)
+* [BBC micro:bit V2 — PlatformIO latest documentation](https://docs.platformio.org/en/latest/boards/nordicnrf52/bbcmicrobit\_v2.html)
 
 Expert review of micro:Bit board:
 
-* [micro:bit for Robotics - YouTube](https://www.youtube.com/watch?v=iwaRidlm2RM&ab_channel=KevinMcAleer)
-* [BBC micro:bit v2 Review! : A Good Recommendation? - YouTube](https://www.youtube.com/watch?v=QHiXLPorrF4&ab_channel=Robu.in)
+* [micro:bit for Robotics - YouTube](https://www.youtube.com/watch?v=iwaRidlm2RM\&ab\_channel=KevinMcAleer)
+* [BBC micro:bit v2 Review! : A Good Recommendation? - YouTube](https://www.youtube.com/watch?v=QHiXLPorrF4\&ab\_channel=Robu.in)
 * [102110408 Seeed Technology Co., Ltd | คอมพิวเตอร์แบบฝัง | DigiKey](https://www.digikey.co.th/th/products/detail/seeed-technology-co.,-ltd/102110408/16680580)
-
-
-

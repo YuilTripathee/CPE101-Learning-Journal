@@ -1,3 +1,7 @@
+---
+description: POP168 board usage
+---
+
 # Week 13 - The Three Challenges
 
 November 18, 2022
@@ -8,11 +12,11 @@ The phrase "three pillar challenges" refers to the three test challenges we must
 
 **The first challenge**, "racing track," requires us to create computer code to drive a robot. In addition to the robots, there are two walls that must not be hit in order for the vehicle to reach the track's terminus.
 
-**The** **third challenge ** is to get the robot to move toward the location that is thought of as the goal without utilizing any sensors. Therefore, we had to change the code that was provided in the information and go back to the code that we wanted. To get to the location we desired, we changed both wheels' speeds and added delay to a few lines of code.
+**The** \*\*third challenge \*\* is to get the robot to move toward the location that is thought of as the goal without utilizing any sensors. Therefore, we had to change the code that was provided in the information and go back to the code that we wanted. To get to the location we desired, we changed both wheels' speeds and added delay to a few lines of code.
 
 **The last challenge** is to utilize two buttons as a bumper to make the robot change course when it collides with something. Within three minutes, we must strike some toys called TAs as hard as we can.
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
 We must employ the skills that are taught in the "Happy Coding" session in order to complete all of the missions that have been assigned to us. We had to exercise good judgment, and when combined with the lecture and our general knowledge, we hardly completed the one lab. I may still claim that this lesson helped me better.
 

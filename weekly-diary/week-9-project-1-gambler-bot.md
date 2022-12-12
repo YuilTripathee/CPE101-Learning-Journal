@@ -1,3 +1,7 @@
+---
+description: All bots competition (mid-term of the course)
+---
+
 # Week 9 - Project 1 (Gambler Bot)
 
 October 21, 2022
@@ -8,11 +12,11 @@ On this day, we had to finish creating the robot that could pick many dice off t
 
 Before arriving on that day, we had constructed the robot with six members and talked about every step of the process, from the design prototype to the finished model. I discovered during the process how important communication and understanding between parties are. We discussed our ideas, options, and thoughts.
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
 It's an extremely difficult competition, and I learned a ton about myself in the process. I have experience finishing the final job with teammates because I had to engage in the process with them. We had to work out the steps till everyone was in agreement because it was really enjoyable and everyone had their own thoughts.
 
-Given that our group is made up of both Thai and international students, this little project may prove to be a little difficult for all of the participants. But nevertheless, we were able to improvise team members' communication skills. 
+Given that our group is made up of both Thai and international students, this little project may prove to be a little difficult for all of the participants. But nevertheless, we were able to improvise team members' communication skills.
 
 ## Reflections (the 'now what?') 🤔
 
@@ -24,8 +28,8 @@ Also, we had acquired the honesty and commitment necessary to establish this bus
 
 I've realized few benefits of working in a group project in a university freshmen year.
 
-- **Develop Teamwork Skills:** Working in a group project requires students to work collaboratively in order to successfully complete the task. This provides a great opportunity to develop important teamwork skills such as communication, problem solving and conflict resolution. 
-- **Enhance Time Management Skills**: Group projects also provide an ideal platform for students to develop their time-management skills. They must learn to balance the workload of the group and divide the tasks accordingly, so that the project can be completed on time. 3
-- **Increase Creative Thinking**: Working in a group encourages students to think outside the box and come up with creative solutions to the task at hand. This helps them to develop their critical thinking skills and apply them to future projects. 
-- **Learn How to Take Initiative**: Group projects also provide students with the opportunity to take initiative and lead the group. This helps them to become more confident and responsible in taking on tasks and completing them successfully.
-- **Develop Leadership Skills**: Working in a group project also provides an opportunity for students to practice their leadership skills. Group members can take turns leading the discussion, brainstorming, and delegating tasks, which helps them to develop their leadership capabilities.
+* **Develop Teamwork Skills:** Working in a group project requires students to work collaboratively in order to successfully complete the task. This provides a great opportunity to develop important teamwork skills such as communication, problem solving and conflict resolution.
+* **Enhance Time Management Skills**: Group projects also provide an ideal platform for students to develop their time-management skills. They must learn to balance the workload of the group and divide the tasks accordingly, so that the project can be completed on time. 3
+* **Increase Creative Thinking**: Working in a group encourages students to think outside the box and come up with creative solutions to the task at hand. This helps them to develop their critical thinking skills and apply them to future projects.
+* **Learn How to Take Initiative**: Group projects also provide students with the opportunity to take initiative and lead the group. This helps them to become more confident and responsible in taking on tasks and completing them successfully.
+* **Develop Leadership Skills**: Working in a group project also provides an opportunity for students to practice their leadership skills. Group members can take turns leading the discussion, brainstorming, and delegating tasks, which helps them to develop their leadership capabilities.

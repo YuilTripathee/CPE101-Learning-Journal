@@ -1,8 +1,12 @@
+---
+description: AI and ML with an activity
+---
+
 # Week 10 - Introduction to AI and Machine Learning
 
 October 28, 2022
 
-Activity session 🏫 Date: **Oct 28, 2022 Friday** Event: **Classroom session** Venue: **KMUTT S4 building 11th Floor Room 1114** 
+Activity session 🏫 Date: **Oct 28, 2022 Friday** Event: **Classroom session** Venue: **KMUTT S4 building 11th Floor Room 1114**
 
 Instructors (s):
 
@@ -16,14 +20,14 @@ Artificial intelligence (AI) is the capacity of a digital computer or computer-c
 
 In the class, we also prepared a word cloud about the AI applications, these were some of the uses that caught my attention:
 
-- AI can **automate mundane tasks** and free up resources for more complex tasks.
-- AI can improve decision-making processes by providing **data-driven insights**.
--  AI can analyze large datasets quickly and accurately.
-- AI can recognize patterns in data and can use this knowledge to inform decisions.
-- AI can process natural language, enabling humans to interact with machines using voice or text.
-- AI can help in the development of autonomous vehicles and robotics.
-- AI can be used to detect fraud and financial risks.
-- AI can help identify health issues and recommend treatments.
+* AI can **automate mundane tasks** and free up resources for more complex tasks.
+* AI can improve decision-making processes by providing **data-driven insights**.
+* AI can analyze large datasets quickly and accurately.
+* AI can recognize patterns in data and can use this knowledge to inform decisions.
+* AI can process natural language, enabling humans to interact with machines using voice or text.
+* AI can help in the development of autonomous vehicles and robotics.
+* AI can be used to detect fraud and financial risks.
+* AI can help identify health issues and recommend treatments.
 
 These were the potential applications that inspired me to dig deep into AI.
 
@@ -31,7 +35,7 @@ AI and ML are related but distinct fields. AI is a broad field of technology tha
 
 We explored several topics in the session, which can be checked in the bottom part of the reflective writing (if it happens to be your interest).
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
 We can gain competitite edge in business by automation, improve customer service, design better product, reduce cost of human errors and have data driven insights.
 

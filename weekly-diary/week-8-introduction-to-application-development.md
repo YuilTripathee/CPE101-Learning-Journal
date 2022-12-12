@@ -1,3 +1,7 @@
+---
+description: Apps and hosting
+---
+
 # Week 8 - Introduction to Application Development
 
 October 7, 2022
@@ -10,12 +14,12 @@ The process of creating mobile applications that should be enlightening and user
 
 The term app development is very broad and can mean different things in different engineering context. The include:
 
-- **Cloud architecture** (Kubernetes, Docker)
-- **ERP Systems** (Odoo)
-- **IoT software solutions** (Grafana)
-- **Desktop apps** (Java, .NET, Qt)
-- **Security testing scripts** (cyber security tools like metasploit)
-- **RTOS and Embedded System** (robotics project context)
+* **Cloud architecture** (Kubernetes, Docker)
+* **ERP Systems** (Odoo)
+* **IoT software solutions** (Grafana)
+* **Desktop apps** (Java, .NET, Qt)
+* **Security testing scripts** (cyber security tools like metasploit)
+* **RTOS and Embedded System** (robotics project context)
 
 But for general context, mobile app developers are referred to as app developers seeing from the user's perspective (they think this is what app developers do - make something in your hand works!).
 
@@ -25,9 +29,9 @@ We can host and create websites using the free and open-source CMS called Wordpr
 
 A website builder, WordPress support, and no adverts are just a few of the useful features offered by 000Webhost, a free website hosting service. Best thing to point out about 000Webhost is that it's ads free.
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
-Having your own personal website is a great way to showcase your experience, skills, and accomplishments. It can help you gain visibility in the job market, establish credibility with potential employers and clients, and even open up new career opportunities. 
+Having your own personal website is a great way to showcase your experience, skills, and accomplishments. It can help you gain visibility in the job market, establish credibility with potential employers and clients, and even open up new career opportunities.
 
 It also provides an easy-to-find platform for sharing your contact information, portfolio of work, and other important details about yourself. Having a personal website can be a great way to network and build relationships with professionals in your field. It can also be used to share your thoughts and connect with others on topics of interest.
 
@@ -39,6 +43,6 @@ In the long run, I conclude not preferring Wordpress solutions as newer alternat
 
 ## Further reading 📄
 
-Django is a more powerful, open source web framework than Wordpress. Django is designed to scale for larger, more complex web applications, while Wordpress is better for smaller, more basic sites.  
+Django is a more powerful, open source web framework than Wordpress. Django is designed to scale for larger, more complex web applications, while Wordpress is better for smaller, more basic sites.
 
 With Django, developers have more control over the development process, as well as the look and feel of the application. Django also offers an admin interface, enabling users to easily manage their content. Additionally, Django offers built-in security features to protect applications from malicious activities.

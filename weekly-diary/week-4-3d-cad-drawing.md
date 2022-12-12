@@ -16,7 +16,7 @@ Using TinkerCAD web application.
 * We use these shapes to make new shapes, therefore the term constructive solid geometry.
 *   We can either use fill or a hole out of shape that would alter the final design.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: Wikipedia article on CSG <a href="https://en.wikipedia.org/wiki/Constructive_solid_geometry">https://en.wikipedia.org/wiki/Constructive_solid_geometry</a></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>source: Wikipedia article on CSG <a href="https://en.wikipedia.org/wiki/Constructive_solid_geometry">https://en.wikipedia.org/wiki/Constructive_solid_geometry</a></p></figcaption></figure>
 
 The other process of making 3D models applies the use of Polygon mesh, which is quite opposite process from CSG. Software like Blender use this technique.
 
@@ -25,6 +25,8 @@ It is also an interesting fact that STL file which is going to be used by 3D pri
 ### **Tinker CAD**
 
 It is a web based tool from Autodesk Inc. which let's us prototype electronics circuits, as well as build basic designs.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus">https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus</a></p></figcaption></figure>
 
 ## Impact (the 'so what?') 🚀
 

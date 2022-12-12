@@ -18,14 +18,18 @@ The term app development is very broad and can mean different things in differen
 * **ERP Systems** (Odoo)
 * **IoT software solutions** (Grafana)
 * **Desktop apps** (Java, .NET, Qt)
-* **Security testing scripts** (cyber security tools like metasploit)
+* **Security testing scripts** (cyber security tools like Metasploit)
 * **RTOS and Embedded System** (robotics project context)
 
 But for general context, mobile app developers are referred to as app developers seeing from the user's perspective (they think this is what app developers do - make something in your hand works!).
 
-### Wordpress and 000Webhost
+### WordPress and 000Webhost
 
-We can host and create websites using the free and open-source CMS called Wordpress. WordPress has a template system and plugin architecture, allowing us to modify any website to meet our business, blog, portfolio, or even an online store. This major feature enables users to alter the look and feel of the website.
+We can host and create websites using the free and open-source CMS called WordPress. WordPress has a template system and plugin architecture, allowing us to modify any website to meet our business, blog, portfolio, or even an online store. This major feature enables users to alter the look and feel of the website.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
 
 A website builder, WordPress support, and no adverts are just a few of the useful features offered by 000Webhost, a free website hosting service. Best thing to point out about 000Webhost is that it's ads free.
 

@@ -18,7 +18,7 @@ The focus of week 6 is becoming familiar with the features and operation of the 
 | Connectivity | [Bluetooth LE](https://en.wikipedia.org/wiki/Bluetooth\_LE), [MicroUSB](https://en.wikipedia.org/wiki/MicroUSB), edge connector |
 | Release date | v2: 13 October 2020                                                                                                             |
 
-\[Photo of micro Bit]
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: <a href="https://microbit.org/get-started/user-guide/overview/">https://microbit.org/get-started/user-guide/overview/</a></p></figcaption></figure>
 
 The Micro:bit is a portable computer that shows us how hardware and software interact with each other. It has few buttons, many sensors, an LED 2D display matrix, and other programmable I/O functions. The micro:bit also has built-in temperature and light sensors, as well as connectors around the bottom that can be used to add extras, since it has adequate GPIO ports.
 

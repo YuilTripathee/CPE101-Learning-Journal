@@ -26,7 +26,7 @@ It is also an interesting fact that STL file which is going to be used by 3D pri
 
 It is a web based tool from Autodesk Inc. which let's us prototype electronics circuits, as well as build basic designs.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus">https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>source: <a href="https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus">https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus</a></p></figcaption></figure>
 
 ## Impact (the 'so what?') 🚀
 

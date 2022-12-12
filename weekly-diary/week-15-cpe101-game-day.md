@@ -16,7 +16,7 @@ I could not even play properly. I had to constantly check the ranks of high card
 
 Also, I participated in playing with a Nintendo ring (which was also an equally fun experience). It is a game controller that lets us play interactive games and also doing good physical exercises.:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: <a href="https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html">https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>source: <a href="https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html">https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html</a></p></figcaption></figure>
 
 ## Impact (the 'so what?') 🚀
 

@@ -9,7 +9,7 @@ description: First class of CPE101 - Engineering Exploration
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 
-* It was the first day of the CPE101 Coursework.
+It is the first day of CPE101 class. Here we learned about syllabus, reflexive writing, and the norms of being in an engineering profession.
 
 > * Any materials regarding the course will go here
 

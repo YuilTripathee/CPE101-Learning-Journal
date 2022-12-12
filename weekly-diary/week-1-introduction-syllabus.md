@@ -31,7 +31,11 @@ The major steps of engineering work (considering the diversity of roles they wor
 * **Test** and improve
 * **Evaluate** your solutions and deliver
 
-__
+We also recall S.M.A.R.T. goal-setting process in this course. I learned this concept in an entrepreneurship session (out of the course). So, I'm just going to place a brief infographic about it.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b">https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b</a></p></figcaption></figure>
+
+
 
 ## Impact (the 'so what?') 🚀
 
@@ -41,17 +45,10 @@ It is a big advantage to be able to know S.M.A.R.T. goal setting since time is o
 
 ## Reflections (the 'now what?') 🤔
 
-To provide the best results, one must have clearly defined goals.&#x20;
+To provide the best results, one must have clearly defined goals. Now, I think we can combine these concepts to set the targets for our project.
 
-I'm further excited to learn these concepts with an hands-on experience in further classes
+I'm further excited to learn these concepts with a hands-on experience in further classes
 
-## Further reading 📄
+##
 
-> * Here you can write the details about the coursework or the activity
-> * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
-
-There is no more detail to add to this week's introductory session. Besides, looking forward to the upcoming contents of the course seem to be very interesting to learn.
-
-### References 🔖
-
-> List of references
+###

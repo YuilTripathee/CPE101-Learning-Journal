@@ -8,7 +8,7 @@ Taking the first class at KMUTT on premises.
 
 #### LibreCAD
 
-![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: Wikipedia (LibreCAD page)</p></figcaption></figure>
 
 It is open-source CAD software, a really good one. Using this tool, we can create an outline that is going to be used for CNC laser cutting in 2D planes (usually acrylic).
 
@@ -18,7 +18,7 @@ We also visited the InnoX lab at KMUTT (Engineering Building) and observed the 2
 
 ## Impact (the 'so what?') 🚀
 
-We still require 2D CAD even in computer engineering projects. It lets us create complex shapes on plane surfaces which would be a nightmare if had to be done manually using hands. LibreCAD also has an advantage to run on Windows, Apple and Linux, while AutoCAD is not supported in Linux. Robotics enthusiasts working in Linux platform extensively will have the benefit of not requiring to leave the platform just for preparing CAD drawing, it they use LibreCAD.
+We still require 2D CAD even in computer engineering projects. It lets us create complex shapes on plane surfaces which would be a nightmare if had to be done manually using hands. LibreCAD also has an advantage to run on Windows, Apple and Linux, while AutoCAD is not supported in Linux. Robotics enthusiasts working in Linux platform extensively will have the benefit of not requiring to leave the platform just for preparing CAD drawing, if they use LibreCAD.
 
 And, we can not deny the fact that computer hardware project demands parts obtained from 2D CNC (like PNP machines, CNC laser cutters). Therefore, 2D CAD is an essential skill to have.
 
@@ -32,7 +32,7 @@ Furthermore, constructing things out of sheets (steel, acrylic or even aluminum)
 
 Here's the CAD drawing I made after learning LibreCAD.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
 
 ### References 🔖
 

@@ -2,36 +2,27 @@
 
 November 18, 2022
 
-## A brief introduction (the 'what?') 🤷‍♂️
+The phrase "three pillar challenges" refers to the three test challenges we must complete on this day using the ATMega-168 CPU (based model) and POP168 BOARD. Given that we are provided with a few sample sheets of information and that we must update code in order to complete the objective, I would say that the obstacles today are pretty difficult in comparison to past days.
 
-* It was the first day of the CPE101 Coursework.
+## Coursework (the 'what?') 🤷‍♂️
 
-> * Any materials regarding the course will go here
+**The first challenge**, "racing track," requires us to create computer code to drive a robot. In addition to the robots, there are two walls that must not be hit in order for the vehicle to reach the track's terminus.
+
+**The** **third challenge ** is to get the robot to move toward the location that is thought of as the goal without utilizing any sensors. Therefore, we had to change the code that was provided in the information and go back to the code that we wanted. To get to the location we desired, we changed both wheels' speeds and added delay to a few lines of code.
+
+**The last challenge** is to utilize two buttons as a bumper to make the robot change course when it collides with something. Within three minutes, we must strike some toys called TAs as hard as we can.
 
 ## Impact  (the 'so what?') 🚀
 
-How the session turned out to be of value if it did?
-
-> * Just wondering about the syllabus.
-> * Relatable to the work we do currently.
+We must employ the skills that are taught in the "Happy Coding" session in order to complete all of the missions that have been assigned to us. We had to exercise good judgment, and when combined with the lecture and our general knowledge, we hardly completed the one lab. I may still claim that this lesson helped me better.
 
 ## Reflections (the 'now what?') 🤔
 
-> * Potential applications of the works and the lessons carried out during the course.
-> * Any suggestions to yourself, the organization, and other stakeholders?
-
-> End of learning reflection, please proceed to below reading for the further details only.
+I learned a lot in this session, and I now appreciate how valuable micro-controllers are in everyday life. For a computer engineer, understanding how they operate and how they perform is unquestionably essential. I'll therefore try to use the knowledge I've learned from these issues in future scenarios.
 
 ## A detailed exploration of this coursework/activity 📄
 
-> * Here you can write the details about the coursework or the activity
-> * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
-
 #### Keynotes 📝
-
-> In points.
->
-> You can discard the title if you like.
 
 * Embedded C++
 
@@ -70,23 +61,3 @@ void loop() {
 
 1. LDR control for LED
 2. Display on SLCD
-
-#### New ideas 💡
-
-* something new?
-
-#### Resources 🎁
-
-* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
-
-### Additional Notes 📄
-
-Anything extra you would like to add goes here.
-
-### Further lookup suggestions 🔍
-
-> List of further lookup suggestions
-
-### References 🔖
-
-> List of references

@@ -14,7 +14,7 @@ Due to the ability to easily and quickly produce 3D visuals without the need for
 
 Unity is simple to use and offers the best conveniences for creating games of a reasonable size. Developers can utilize unity as a development platform and can program as they like in order to create an advanced game. C# is one of the languages that is most frequently used in game creation.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>source: <a href="https://dotnet.microsoft.com/en-us/apps/games/unity">https://dotnet.microsoft.com/en-us/apps/games/unity</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>source: <a href="https://dotnet.microsoft.com/en-us/apps/games/unity">https://dotnet.microsoft.com/en-us/apps/games/unity</a></p></figcaption></figure>
 
 Beginners can use free models from the Unity Asset Store as well as free game playgrounds. Since many playgrounds and models are already available for some of the models, they can decide whether to create 2D or 3D games. Even the most experienced game developers can buy whatever they want from that asset store if they become bored designing models or game templates and would prefer to build game motions or programs instead.
 

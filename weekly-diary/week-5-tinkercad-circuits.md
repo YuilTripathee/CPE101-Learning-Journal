@@ -34,11 +34,13 @@ Electronics is an integral building block of applied computer projects. Let's su
 * **Diodes** - allows one side flow of current
 * **Breadboard** - board for electronic prototyping without having to build PCBs, which are expensive
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: <a href="https://www.sarcnet.org/electronic-components.html">https://www.sarcnet.org/electronic-components.html</a></p></figcaption></figure>
+
 **Digital Circuits**
 
 These circuits are capable of processing signals. They are made of logic gates. And, the logic gates are made by multiple transistors (TTL logic). NAND and NOR gate can build all of the 7 logic gates. But, NAND is more preferred over NOR gate.
 
-\[TODO: Image of Logic Gate Table]
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>source: <a href="https://www.circuitbasics.com/what-is-digital-logic/">https://www.circuitbasics.com/what-is-digital-logic/</a></p></figcaption></figure>
 
 We also had performed an assignment, which made the understanding of these topics even more obvious.
 
@@ -57,6 +59,8 @@ TinkerCAD is a good approach to start learning electronic circuit simation. But,
 ## Further reading 📄
 
 We've also tried simulating electric circuits and the Arduino itself in this web session. It is highly recommended to practise this way since we don't have to bear the cost of working with real physical parts. Also, simulations provides the idea results which would otherwise be disturbed by noise and interference in the physical setup which makes it harder to get the meaningful test results.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.tinkercad.com/things/dEOWWJatCtv-arduino-simulator">https://www.tinkercad.com/things/dEOWWJatCtv-arduino-simulator</a></p></figcaption></figure>
 
 ## References 🔖
 

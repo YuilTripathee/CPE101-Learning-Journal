@@ -26,7 +26,7 @@ It is also an interesting fact that STL file which is going to be used by 3D pri
 
 It is a web based tool from Autodesk Inc. which let's us prototype electronics circuits, as well as build basic designs.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>source: <a href="https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus">https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>source: <a href="https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus">https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus</a></p></figcaption></figure>
 
 ## Impact (the 'so what?') 🚀
 
@@ -44,4 +44,4 @@ For a good quality of work, I would least recommend TinkerCAD and rather opt for
 
 Here is a sample 3D drawing made using TinkerCAD.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: my work</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>source: my work</p></figcaption></figure>

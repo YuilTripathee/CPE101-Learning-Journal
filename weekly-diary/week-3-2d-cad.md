@@ -12,7 +12,7 @@ Taking the first class at KMUTT on premises.
 
 #### LibreCAD
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: Wikipedia (LibreCAD page)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>source: Wikipedia (LibreCAD page)</p></figcaption></figure>
 
 It is open-source CAD software, a really good one. Using this tool, we can create an outline that is going to be used for CNC laser cutting in 2D planes (usually acrylic).
 
@@ -38,7 +38,7 @@ Furthermore, constructing things out of sheets (steel, acrylic or even aluminum)
 
 Here's the CAD drawing I made after learning LibreCAD.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
 
 ### References 🔖
 

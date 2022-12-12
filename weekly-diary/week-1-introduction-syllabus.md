@@ -35,14 +35,22 @@ We also recall S.M.A.R.T. goal-setting process in this course. I learned this co
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: <a href="https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b">https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b</a></p></figcaption></figure>
 
+### CPE101 Project
+
+We were going to have two projects as part of the course. First one is building **a gambler bot**. The team will be prefixed by the organizers (CPE101 class) we had to go pick some dices around by manually controlling the robot. The collected dices had to be put on to the wooden stage. The scores will be based on the number of dices and values on top facing dices.
+
+**Second project** let us chose the project idea and team by ourselves. We had to work on team reaching the final end of the project and then we are going to showcase it at the end of the course. The project had to be organized using Planner tool for better team coordination.
+
 ## Impact (the 'so what?') 🚀
 
 This session just manifests the overall picture of an engineering role. It also helps in clarifying what the proficient problem-solving pattern looks like.
 
 It is a big advantage to be able to know S.M.A.R.T. goal setting since time is our most valuable resource. Working on actions with no reasonable outcome can be a terrible waste of time and resources. It is also said that in the competition, "time is our greatest enemy", even bigger than our rivals.
 
+Having an opportunity to work on multiple team projects during the start of the engineering journey is a very valuable gain. Having said that, we will be able to explore different areas of computer engineering roles with the help of both courseworks and more on the project work.
+
 ## Reflections (the 'now what?') 🤔
 
 To provide the best results, one must have clearly defined goals. Now, I think we can combine these concepts to set the targets for our project.
 
-I'm further excited to learn these concepts with a hands-on experience in further classes
+I'm further excited to learn these concepts with a hands-on experience in further classes.

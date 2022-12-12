@@ -4,7 +4,35 @@ September 23, 2022
 
 MicroBIT - Many programming options (I prefer Python and JavaScript over MakeCode or drag and drop coding program developed in MIT called Scratch).
 
-## References
+## Coursework (the 'what?') 🤷‍♂️
+
+The focus of week 6 is becoming familiar with the features and operation of the Micro:bit. It is an open source ARM based educational embedded system. Let's take a quick recap about MicroBit specifications:
+
+| Name         | BBC micro:Bit                                                |
+| ------------ | ------------------------------------------------------------ |
+| CPU          | v2: Nordic nRF52833, 64 MHz [ARM Cortex-M4](https://en.wikipedia.org/wiki/ARM_Cortex-M4) core, 512 KB Flash, 128 KB RAM |
+| Connectivity | [Bluetooth LE](https://en.wikipedia.org/wiki/Bluetooth_LE), [MicroUSB](https://en.wikipedia.org/wiki/MicroUSB), edge connector |
+| Release date | v2: 13 October 2020                                          |
+
+[Photo of micro Bit]
+
+ The Micro:bit is a portable computer that shows us how hardware and software interact with each other. It has few buttons, many sensors, an LED 2D display matrix, and other programmable I/O functions. The micro:bit also has built-in temperature and light sensors, as well as connectors around the bottom that can be used to add extras, since it has adequate GPIO ports.
+
+It can be programmed using USB connector and desktop, but also by pairing it to the tablet/mobile devices via Bluetooth. Coding process is way too convenient. Additionally, it has two programmable buttons and 25 LED lights, which can be utilized for countless possibilities. Creative ideas are still there to be developed regarding the microcontrollers.
+
+## Impact  (the 'so what?') 🚀
+
+It is a well rounded board to explore electronics, prototyping, testing and coding with a gamified experience. The micro:bit can be configured to perform a variety of tasks, including acting as a game controller, a digital watch, and a home security monitor. Therefore, we may utilize the micro:bit for a variety of tasks and can adapt them to employ them in projects to control the actions and performances of small robots.
+
+## Reflections (the 'now what?') 🤔
+
+Using micro:Bit, we can delegate the burden of electronics setup and working with different sensors and the bus system they support (CAN, I2C, SPI). Rather than these, we can opt to learn cooperation, communication and design thinking.
+
+## Further reading 📄
+
+Fun fact: microBit also support Zephyr RTOS. Using this we can build industrial grade IoT applications just from an education-purpose built microcontroller platform.
+
+### References 🔖
 
 * [Micro:bit Educational Foundation | micro:bit](https://microbit.org/)
 * [iBIT-RacerE\_210626-re.pdf](https://inex.co.th/store/manual/eng/iBIT-RacerE\_210626-re.pdf)

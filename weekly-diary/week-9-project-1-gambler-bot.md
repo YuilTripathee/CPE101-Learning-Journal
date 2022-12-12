@@ -4,89 +4,28 @@ October 21, 2022
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 
-* It was the first day of the CPE101 Coursework.
+On this day, we had to finish creating the robot that could pick many dice off the ground, gather them, and then place them in the middle. The title of the article is "gambler robot." This week's session is unique because we had to showcase our robot designs and compete to see who could carry the most dice while moving toward the center.
 
-> * Any materials regarding the course will go here
+Before arriving on that day, we had constructed the robot with six members and talked about every step of the process, from the design prototype to the finished model. I discovered during the process how important communication and understanding between parties are. We discussed our ideas, options, and thoughts.
 
 ## Impact  (the 'so what?') 🚀
 
-How the session turned out to be of value if it did?
+It's an extremely difficult competition, and I learned a ton about myself in the process. I have experience finishing the final job with teammates because I had to engage in the process with them. We had to work out the steps till everyone was in agreement because it was really enjoyable and everyone had their own thoughts.
 
-> * Just wondering about the syllabus.
-> * Relatable to the work we do currently.
+Given that our group is made up of both Thai and international students, this little project may prove to be a little difficult for all of the participants. But nevertheless, we were able to improvise team members' communication skills. 
 
 ## Reflections (the 'now what?') 🤔
 
-> * Potential applications of the works and the lessons carried out during the course.
-> * Any suggestions to yourself, the organization, and other stakeholders?
+I now have more information about making machines and robots, and I am better prepared should I ever get the chance to make another one in the future. Every student in the engineering field should be familiar with the fundamentals of a machine.
 
-> End of learning reflection, please proceed to below reading for the further details only.
+Also, we had acquired the honesty and commitment necessary to establish this business, and I may use these in future situations.
 
-## A detailed exploration of this coursework/activity 📄
+## Further reading 📄
 
-> * Here you can write the details about the coursework or the activity
-> * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
+I've realized few benefits of working in a group project in a university freshmen year.
 
-#### Keynotes 📝
-
-> In points.
->
-> You can discard the title if you like.
-
-* Embedded C++
-
-```cpp
-void setup( ) {
-  // run once
-}
-
-void loop() {
-  // run forever
-}
-```
-
-Issue: `avrdude: stk500_recv(): programmer is not responding`
-
-Labs:
-
-1. Blink LED
-2. Frequency output (Piezo Electric Speaker) P15 (D9) -> C1 (10 uF) -> +(speaker)- -> GND
-
-```cpp
-void setup() {
-	pinMode(9, OUTPUT);
-}
-
-void loop() {
-	for (int i = 0; i < 500; i++) {
-		digitalWrite(9, HIGH);
-		delayMicroseconds(500);
-		digitalWrite(9, LOW);
-		delay Microseconds(500);
-	}
-}
-	
-```
-
-1. LDR control for LED
-2. Display on SLCD
-
-#### New ideas 💡
-
-* something new?
-
-#### Resources 🎁
-
-* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
-
-### Additional Notes 📄
-
-Anything extra you would like to add goes here.
-
-### Further lookup suggestions 🔍
-
-> List of further lookup suggestions
-
-### References 🔖
-
-> List of references
+- **Develop Teamwork Skills:** Working in a group project requires students to work collaboratively in order to successfully complete the task. This provides a great opportunity to develop important teamwork skills such as communication, problem solving and conflict resolution. 
+- **Enhance Time Management Skills**: Group projects also provide an ideal platform for students to develop their time-management skills. They must learn to balance the workload of the group and divide the tasks accordingly, so that the project can be completed on time. 3
+- **Increase Creative Thinking**: Working in a group encourages students to think outside the box and come up with creative solutions to the task at hand. This helps them to develop their critical thinking skills and apply them to future projects. 
+- **Learn How to Take Initiative**: Group projects also provide students with the opportunity to take initiative and lead the group. This helps them to become more confident and responsible in taking on tasks and completing them successfully.
+- **Develop Leadership Skills**: Working in a group project also provides an opportunity for students to practice their leadership skills. Group members can take turns leading the discussion, brainstorming, and delegating tasks, which helps them to develop their leadership capabilities.

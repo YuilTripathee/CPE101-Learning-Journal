@@ -2,91 +2,43 @@
 
 October 7, 2022
 
-## A brief introduction (the 'what?') 🤷‍♂️
+## Coursework (the 'what?') 🤷‍♂️
 
-* It was the first day of the CPE101 Coursework.
+Using 000webhost and WordPress, we had learned about web creation this week. There are two separate things we discussed in this class i.e. web and application. Web development is much simpler than application development because web developers may program websites for usage on both mobile and computer platforms. Also, web development uses fewer technologies overall.
 
-> * Any materials regarding the course will go here
+The process of creating mobile applications that should be enlightening and user-friendly is known as mobile application development. There are numerous operating systems available for developing applications (Among them, Android & IOS are the most popular nowadays.)
+
+The term app development is very broad and can mean different things in different engineering context. The include:
+
+- **Cloud architecture** (Kubernetes, Docker)
+- **ERP Systems** (Odoo)
+- **IoT software solutions** (Grafana)
+- **Desktop apps** (Java, .NET, Qt)
+- **Security testing scripts** (cyber security tools like metasploit)
+- **RTOS and Embedded System** (robotics project context)
+
+But for general context, mobile app developers are referred to as app developers seeing from the user's perspective (they think this is what app developers do - make something in your hand works!).
+
+### Wordpress and 000Webhost
+
+We can host and create websites using the free and open-source CMS called Wordpress. WordPress has a template system and plugin architecture, allowing us to modify any website to meet our business, blog, portfolio, or even an online store. This major feature enables users to alter the look and feel of the website.
+
+A website builder, WordPress support, and no adverts are just a few of the useful features offered by 000Webhost, a free website hosting service. Best thing to point out about 000Webhost is that it's ads free.
 
 ## Impact  (the 'so what?') 🚀
 
-How the session turned out to be of value if it did?
+Having your own personal website is a great way to showcase your experience, skills, and accomplishments. It can help you gain visibility in the job market, establish credibility with potential employers and clients, and even open up new career opportunities. 
 
-> * Just wondering about the syllabus.
-> * Relatable to the work we do currently.
+It also provides an easy-to-find platform for sharing your contact information, portfolio of work, and other important details about yourself. Having a personal website can be a great way to network and build relationships with professionals in your field. It can also be used to share your thoughts and connect with others on topics of interest.
 
 ## Reflections (the 'now what?') 🤔
 
-> * Potential applications of the works and the lessons carried out during the course.
-> * Any suggestions to yourself, the organization, and other stakeholders?
+Having app development skills is increasingly important in today’s digital world. Apps are becoming the primary way people access information, services, and products. They are also the bridge between customers and businesses. Having the skills to develop, design, and maintain apps is a valuable asset for any business or individual looking to stay ahead of the competition. With the right app development skills, you can create a personalized user experience, engage customers, and even drive sales.
 
-> End of learning reflection, please proceed to below reading for the further details only.
+In the long run, I conclude not preferring Wordpress solutions as newer alternatives provides more options.Wordpress is a great choice for content-based websites, but it is not as powerful or versatile as Django. It does not offer the same level of customization or scalability as Django, and it does not have the same level of security.
 
-## A detailed exploration of this coursework/activity 📄
+## Further reading 📄
 
-> * Here you can write the details about the coursework or the activity
-> * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
+Django is a more powerful, open source web framework than Wordpress. Django is designed to scale for larger, more complex web applications, while Wordpress is better for smaller, more basic sites.  
 
-#### Keynotes 📝
-
-> In points.
->
-> You can discard the title if you like.
-
-* Embedded C++
-
-```cpp
-void setup( ) {
-  // run once
-}
-
-void loop() {
-  // run forever
-}
-```
-
-Issue: `avrdude: stk500_recv(): programmer is not responding`
-
-Labs:
-
-1. Blink LED
-2. Frequency output (Piezo Electric Speaker) P15 (D9) -> C1 (10 uF) -> +(speaker)- -> GND
-
-```cpp
-void setup() {
-	pinMode(9, OUTPUT);
-}
-
-void loop() {
-	for (int i = 0; i < 500; i++) {
-		digitalWrite(9, HIGH);
-		delayMicroseconds(500);
-		digitalWrite(9, LOW);
-		delay Microseconds(500);
-	}
-}
-	
-```
-
-1. LDR control for LED
-2. Display on SLCD
-
-#### New ideas 💡
-
-* something new?
-
-#### Resources 🎁
-
-* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
-
-### Additional Notes 📄
-
-Anything extra you would like to add goes here.
-
-### Further lookup suggestions 🔍
-
-> List of further lookup suggestions
-
-### References 🔖
-
-> List of references
+With Django, developers have more control over the development process, as well as the look and feel of the application. Django also offers an admin interface, enabling users to easily manage their content. Additionally, Django offers built-in security features to protect applications from malicious activities.

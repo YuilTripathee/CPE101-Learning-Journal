@@ -2,9 +2,48 @@
 
 October 28, 2022
 
-Activity session 🏫 Date: **Oct 28, 2022 Friday** Event: **Classroom session** Venue: **KMUTT S4 building 11th Floor Room 1114** Speaker(s):
+Activity session 🏫 Date: **Oct 28, 2022 Friday** Event: **Classroom session** Venue: **KMUTT S4 building 11th Floor Room 1114** 
+
+Instructors (s):
 
 1. P'North (TG: north.npk) AI researcher at NSTDA
+
+We had learned about the terms AI (Artificial Intelligence) and Machine Learning during this week.
+
+## Coursework (the 'what?') 🤷‍♂️
+
+Artificial intelligence (AI) is the capacity of a digital computer or computer-controlled robot to carry out operations frequently performed by intelligent beings. This is a broad area of computer science that is focused with creating intelligent machines that can complete jobs. AI allows robots to adapt to new input, learn from past experiences, and carry out activities like to those performed by humans using a dataset. We also learned about deep learning, a form of machine learning and artificial intelligence (AI) that mimics how people learn specific kinds of information.
+
+In the class, we also prepared a word cloud about the AI applications, these were some of the uses that caught my attention:
+
+- AI can **automate mundane tasks** and free up resources for more complex tasks.
+- AI can improve decision-making processes by providing **data-driven insights**.
+-  AI can analyze large datasets quickly and accurately.
+- AI can recognize patterns in data and can use this knowledge to inform decisions.
+- AI can process natural language, enabling humans to interact with machines using voice or text.
+- AI can help in the development of autonomous vehicles and robotics.
+- AI can be used to detect fraud and financial risks.
+- AI can help identify health issues and recommend treatments.
+
+These were the potential applications that inspired me to dig deep into AI.
+
+AI and ML are related but distinct fields. AI is a broad field of technology that focuses on creating intelligent machines that can think and make decisions like humans. ML, on the other hand, is a specific subfield of AI that focuses on the development of algorithms and models that can learn from data and make predictions. AI is a more general field that includes ML, as well as other techniques such as natural language processing, computer vision, robotics, and more.
+
+We explored several topics in the session, which can be checked in the bottom part of the reflective writing (if it happens to be your interest).
+
+## Impact  (the 'so what?') 🚀
+
+We can gain competitite edge in business by automation, improve customer service, design better product, reduce cost of human errors and have data driven insights.
+
+The lab session we had after the instruction part was a stepping store to explore AI projects. Before then I had always wanted to learn about AI but entry to this topic was tool confusing and vague especially when we don't have mentions. I am eternally grateful to P'North for this wonderful session.
+
+## Reflections (the 'now what?') 🤔
+
+AI may be used to create engaging learning activities like project-based learning and gamified learning, among others. And Machine learning (ML), a branch of artificial intelligence (AI), is the branch of computational science that is concerned with the analysis and interpretation of patterns and structures in data to enable learning, reasoning, and decision-making without the involvement of a human.
+
+With this sessions and learning materials provided, now I have a good roadmap and interest to explore more about AI technologies, trends and applications. Moreover, it helped me get involved in the first hand rather than being an audience spectating other players in this technology. I also got to clear my misconception that I had before, regarding the technicalities of AI deployment to the client sides.
+
+## Further reading (optional) 📄
 
 #### Key notes 📝
 
@@ -77,77 +116,4 @@ Tools:
 #### Resources 🎁
 
 * Papers with Code (state of art ML workflow and papers) + extra datasets
-* Kaggle to start the work with
-
-### Reflections 🔮
-
-What do you feel?
-
-How do these fit with your current practice and understanding?
-
-How will you incorporate any new understanding or skill you have learned into your day to day practice?
-
-#### Impact 🚀
-
-How the session turned out to be of value if it did?
-
-#### Final Reflection 🔚
-
-Have you identified any learning needs to look forward into your personal learning and development?
-
-How might you address these?
-
-TODO:
-
-## A brief introduction (the 'what?') 🤷‍♂️
-
-* It was the first day of the CPE101 Coursework.
-
-> * Any materials regarding the course will go here
-
-## Impact  (the 'so what?') 🚀
-
-How the session turned out to be of value if it did?
-
-> * Just wondering about the syllabus.
-> * Relatable to the work we do currently.
-
-## Reflections (the 'now what?') 🤔
-
-> * Potential applications of the works and the lessons carried out during the course.
-> * Any suggestions to yourself, the organization, and other stakeholders?
-
-> End of learning reflection, please proceed to below reading for the further details only.
-
-## A detailed exploration of this coursework/activity 📄
-
-> * Here you can write the details about the coursework or the activity
-> * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
-
-#### Keynotes 📝
-
-> In points.
->
-> You can discard the title if you like.
-
-* 
-
-#### New ideas 💡
-
-* something new?
-
-#### Resources 🎁
-
-* 
-
-### Additional Notes 📄
-
-Anything extra you would like to add goes here.
-
-### Further lookup suggestions 🔍
-
-> List of further lookup suggestions
-
-### References 🔖
-
-> List of references
+* Kaggle to start the work with AI, DL, ML

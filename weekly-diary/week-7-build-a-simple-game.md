@@ -2,100 +2,36 @@
 
 September 30, 2022
 
-TODOs:
+This week, we learned about learning the Unity engine to create video games.
 
-- [ ] Content writing
+##  Coursework (the 'what?') 🤷‍♂️
 
-##  A brief introduction (the 'what?') 🤷‍♂️
+Due to the ability to easily and quickly produce 3D visuals without the need for considerable programming skills, Unity is a multi-platform environment that works excellent for developing applications, mobile games, and console games.
 
-* It was the first day of the CPE101 Coursework.
+Unity is simple to use and offers the best conveniences for creating games of a reasonable size. Developers can utilize unity as a development platform and can program as they like in order to create an advanced game. C# is one of the languages that is most frequently used in game creation.
 
-> * Any materials regarding the course will go here
+Beginners can use free models from the Unity Asset Store as well as free game playgrounds. Since many playgrounds and models are already available for some of the models, they can decide whether to create 2D or 3D games.
+ Even the most experienced game developers can buy whatever they want from that asset store if they become bored designing models or game templates and would prefer to build game motions or programs instead.
 
 ## Impact  (the 'so what?') 🚀
 
-How the session turned out to be of value if it did?
+Unity allows advanced interaction with codes that developers can export to the platform they're going to create for (mobile or desktop). There is also a premium pro edition that is lovely and filled with simple advice. In addition, compared to how games used to be created in the past, using the Unity engine to create games is not as difficult today.
 
-> * Just wondering about the syllabus.
-> * Relatable to the work we do currently.
+Interactions with the visual components is already a great feature in itself. The feature is much well developed as compared to other game engines.
 
 ## Reflections (the 'now what?') 🤔
 
-> * Potential applications of the works and the lessons carried out during the course.
-> * Any suggestions to yourself, the organization, and other stakeholders?
+I somehow resent the pricing model of Unity game engine from possible game developer perspective. I wished if open source alternatives could catch up in this area (like blender). This way, we can get rid of vendor-lock ins. [Godot](https://godotengine.org/) is a wonderful free and open source cross-platform engine which shows a great deal of poten
 
-> End of learning reflection, please proceed to below reading for the further details only.
+To be fair, game development is something that I was always trying to avoid (since my first gaming project back in 2017). My friend also shared me that Unity is a fantastic tool for doing simulations. As a result, this benefits the machine learning projects as well.
 
-## A detailed exploration of this coursework/activity 📄
+## Further reading 📄
 
-> * Here you can write the details about the coursework or the activity
-> * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
-
-#### Keynotes 📝
-
-> In points.
->
-> You can discard the title if you like.
-
-* Embedded C++
-
-```cpp
-void setup( ) {
-  // run once
-}
-
-void loop() {
-  // run forever
-}
-```
-
-Issue: `avrdude: stk500_recv(): programmer is not responding`
-
-Labs:
-
-1. Blink LED
-2. Frequency output (Piezo Electric Speaker) P15 (D9) -> C1 (10 uF) -> +(speaker)- -> GND
-
-```cpp
-void setup() {
-	pinMode(9, OUTPUT);
-}
-
-void loop() {
-	for (int i = 0; i < 500; i++) {
-		digitalWrite(9, HIGH);
-		delayMicroseconds(500);
-		digitalWrite(9, LOW);
-		delay Microseconds(500);
-	}
-}
-	
-```
-
-1. LDR control for LED
-2. Display on SLCD
-
-#### New ideas 💡
-
-* something new?
-
-#### Resources 🎁
-
-* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
-
-### Additional Notes 📄
-
-Anything extra you would like to add goes here.
-
-### Further lookup suggestions 🔍
-
-> List of further lookup suggestions
+[Unity Window Photo]
 
 ### References 🔖
 
-> List of references
-
-## References
+Unity assets store: https://assetstore.unity.com/
 
 Assets:
 - [Mixamo](https://www.mixamo.com/#/?page=1&query=idle)

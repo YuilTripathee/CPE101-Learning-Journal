@@ -1,5 +1,7 @@
 # Week 10 - Introduction to AI and Machine Learning
 
+October 28, 2022
+
 Activity session 🏫 Date: **Oct 28, 2022 Friday** Event: **Classroom session** Venue: **KMUTT S4 building 11th Floor Room 1114** Speaker(s):
 
 1. P'North (TG: north.npk) AI researcher at NSTDA

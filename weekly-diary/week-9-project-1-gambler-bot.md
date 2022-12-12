@@ -1,5 +1,7 @@
 # Week 9 - Project 1 (Gambler Bot)
 
+October 21, 2022
+
 ## A brief introduction (the 'what?') 🤷‍♂️
 
 * It was the first day of the CPE101 Coursework.

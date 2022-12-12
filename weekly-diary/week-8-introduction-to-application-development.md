@@ -1,5 +1,7 @@
 # Week 8 - Introduction to Application Development
 
+October 7, 2022
+
 ## A brief introduction (the 'what?') 🤷‍♂️
 
 * It was the first day of the CPE101 Coursework.

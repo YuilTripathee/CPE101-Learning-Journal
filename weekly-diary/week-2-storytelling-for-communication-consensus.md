@@ -13,7 +13,7 @@ Speaker(s):
 1. **Asst. Prof. Dr. Nuttanart Facundes**
 2. **Aj. Tarntip Liuchalermwongs**
 
-## Key notes (the " 📝
+## Coursework (the 'what?') 🤷‍♂️
 
 * Richard Turerer: My invention that made peace with lions
 

@@ -4,6 +4,8 @@ description: Coding on Arduino platform (POP-160)
 
 # Week 11 - Happy Coding
 
+November 4, 2022
+
 TODO: Scannings for Happy Coding notebook scribbles (from B5 notebook)
 
 Activity session 🏫 Date: 2022-11-04 08:50 Event: Class Venue: 1115 (11th Floor) Speaker(s): Aj. Jumpol

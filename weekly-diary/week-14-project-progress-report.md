@@ -1,6 +1,6 @@
 # Week 14 - Project Progress Report
 
-Nov 25, 2022
+November 25, 2022
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 

@@ -28,7 +28,7 @@ How the session turned out to be of value if it did?
 
 > End of learning reflection, please proceed to below reading for the further details only.
 
-## A detailed exploration of this coursework/activity 📄
+## Further reading 📄
 
 > * Here you can write the details about the coursework or the activity
 > * It can include the coursework, the software, and framework used, the detailed specifications, something like that!

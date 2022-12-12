@@ -1,6 +1,8 @@
 # Week 3 - 2D CAD using LibreCAD application
 
-summarize here...
+September 3, 2022
+
+Taking the first class at KMUTT on premises.
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 

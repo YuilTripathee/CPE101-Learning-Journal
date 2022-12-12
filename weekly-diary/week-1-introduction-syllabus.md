@@ -6,7 +6,7 @@ description: The first class of CPE101 - Engineering Exploration
 
 August 19, 2022
 
-* not able to attend onsite class (visa delays)
+* not able to attend onsite class (visa paperworks)
 * all the references are coming from the Facebook guide (syllabus, literature review)
 
 ## Coursework (the 'what?') 🤷‍♂️
@@ -48,7 +48,3 @@ It is a big advantage to be able to know S.M.A.R.T. goal setting since time is o
 To provide the best results, one must have clearly defined goals. Now, I think we can combine these concepts to set the targets for our project.
 
 I'm further excited to learn these concepts with a hands-on experience in further classes
-
-##
-
-###

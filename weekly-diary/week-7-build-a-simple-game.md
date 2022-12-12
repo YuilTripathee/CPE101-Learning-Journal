@@ -1,5 +1,7 @@
 # Week 7 - Build a Simple Game
 
+September 30, 2022
+
 TODOs:
 
 - [ ] Content writing

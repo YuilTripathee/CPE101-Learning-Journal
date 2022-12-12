@@ -1,6 +1,6 @@
 # Week 13 - The Three Challenges
 
-Nov 18, 2022
+November 18, 2022
 
 ## A brief introduction (the 'what?') 🤷‍♂️
 

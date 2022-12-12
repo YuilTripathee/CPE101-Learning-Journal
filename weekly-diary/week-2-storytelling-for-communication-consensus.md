@@ -24,6 +24,10 @@ _More content to come._
 > * Here you can write the details about the coursework or the activity
 > * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
 
+{% embed url="https://www.youtube.com/watch?ab_channel=TED&v=RAoo--SeUIk" %}
+source: [https://www.youtube.com/watch?v=RAoo--SeUIk\&ab\_channel=TED](https://www.youtube.com/watch?v=RAoo--SeUIk\&ab\_channel=TED)
+{% endembed %}
+
 ### References 🔖
 
 > List of references

@@ -4,7 +4,7 @@ description: The first class of CPE101 - Engineering Exploration
 
 # Week 1 - Introduction, Syllabus
 
-
+August 19, 2022
 
 * not able to attend onsite class (visa delays)
 * all the references are coming from the Facebook guide (syllabus, literature review)
@@ -15,19 +15,35 @@ It is the first day of CPE101 class. Here we learned about the syllabus, reflexi
 
 #### **About the term "engineering"**
 
-My conventional understanding is based on Wikipedia's definition, which is to build useful stuff using scientific principles. So, creative applications of scientific principles (conditions applied) are basically engineering works. Things like safety, and the economics of operation, are also valuable considerations.
+My conventional understanding is based on Wikipedia's definition, which is to build useful stuff using scientific principles. So, creative applications of scientific principles (conditions applied) are basically engineering works. Factors like personal and professional ethics, safety, and the economics of operation, are also valuable considerations.
+
+> ...it is the engineering that changes the world.
+
+_Issac Asimov, 1970_
+
+The major steps of engineering work (considering the diversity of roles they work in), can be summarized as **ASK, IMAGINE, CREATE** and **IMPROVE**. Let's take a look at the breakdown of those steps (extended version):
+
+* **Define** your problem
+* Do the necessary **research**
+* **Develop** a possible solution (a model of a solution)
+* **Design** your solution (based on proof of concept/proof of technology)
+* Build a **prototype**
+* **Test** and improve
+* **Evaluate** your solutions and deliver
+
+__
 
 ## Impact (the 'so what?') 🚀
 
-How the session turned out to be of value if it did?
+This session just manifests the overall picture of an engineering role. It also helps in clarifying what the proficient problem-solving pattern looks like.
 
-> * Just wondering about the syllabus.
-> * Relatable to the work we do currently.
+It is a big advantage to be able to know S.M.A.R.T. goal setting since time is our most valuable resource. Working on actions with no reasonable outcome can be a terrible waste of time and resources. It is also said that in the competition, "time is our greatest enemy", even bigger than our rivals.
 
 ## Reflections (the 'now what?') 🤔
 
-> * Potential applications of the works and the lessons carried out during the course.
-> * Any suggestions to yourself, the organization, and other stakeholders?
+To provide the best results, one must have clearly defined goals.&#x20;
+
+I'm further excited to learn these concepts with an hands-on experience in further classes
 
 ## Further reading 📄
 

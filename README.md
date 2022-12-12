@@ -6,6 +6,8 @@ description: Reflexive writing journal from CPE101 Engineering Exploration cours
 
 Hi, I'm **Yuil Tripathee** and I'm here to share my learning journey through the **CPE101 Engineering Exploration class**. I've experienced ups and downs, highs and lows, excitement and panic, a breathtaking experience because of the wide variety of topics being covered in the course. Moreover, building robots for the first time from scratch came up to me as a challenging and thrilling experience. In addition to academics and technology during the coursework, we also uncovered a lot of new topics from the soft skill part that is definitely going to help us innovate pragmatically and better address the needs of society.
 
+I hope you would enjoy reading about my experience and comprehension from the CPE101 class.
+
 | Author    | Yuil Tripathee                                                          |
 | --------- | ----------------------------------------------------------------------- |
 | ID        | 650 7050 3480                                                           |
@@ -14,7 +16,7 @@ Hi, I'm **Yuil Tripathee** and I'm here to share my learning journey through the
 | Program   | Bachelor of Engineering in Computer Engineering (International Program) |
 | Institute | King Mongkut's University of Technology Thonburi                        |
 
-The curriculum of CPE101 that we took is based on the latest 2021 revision of the CPE International Section.
+The curriculum of CPE101 that we took is based on the latest 2021 revision of the CPE International Section. Here, we will learn about practical concepts of engineering and the course also include multiple teamed projects as part of project-based learning.
 
 ## References
 

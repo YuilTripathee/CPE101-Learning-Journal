@@ -10,6 +10,8 @@ Taking the first class at KMUTT on premises.
 
 It is an open-source CAD software.
 
+I had watched the videos posted in Facebook guide but could hardly make any sense out of them.
+
 ## Impact (the 'so what?') 🚀
 
 How the session turned out to be of value if it did?

@@ -8,13 +8,18 @@ Work to do: [3D Work](https://web.facebook.com/photo/?fbid=5358736770876328&set=
 
 Submission file: *Coming soon...*
 
-## A brief introduction (the 'what?') 🤷‍♂️
+## Coursework (the 'what?') 🤷‍♂️
 
 ### Constructive Solid Geometry
 
+- We start with the primitive shapes (cone, cylinder, cub, etc.)
+- We use these shapes to make new shapes, therefore the term constructive solid geometry.
+
+[Put image to shine]
+
 ### **Tinker CAD**
 
-
+It is a web based tool from Autodesk Inc. which let's us prototype electronics circuits, as well as build basic designs.
 
 ## Impact  (the 'so what?') 🚀
 
@@ -28,64 +33,12 @@ How the session turned out to be of value if it did?
 > * Potential applications of the works and the lessons carried out during the course.
 > * Any suggestions to yourself, the organization, and other stakeholders?
 
-> End of learning reflection, please proceed to below reading for the further details only.
+> For a good quality of work, I would least recommend TinkerCAD and rather opt for solutions like Fusion 360, DS Solidworks.
 
 ## A detailed exploration of this coursework/activity 📄
 
 > * Here you can write the details about the coursework or the activity
 > * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
-
-#### Keynotes 📝
-
-> In points.
->
-> You can discard the title if you like.
-
-* Embedded C++
-
-```cpp
-void setup( ) {
-  // run once
-}
-
-void loop() {
-  // run forever
-}
-```
-
-Issue: `avrdude: stk500_recv(): programmer is not responding`
-
-Labs:
-
-1. Blink LED
-2. Frequency output (Piezo Electric Speaker) P15 (D9) -> C1 (10 uF) -> +(speaker)- -> GND
-
-```cpp
-void setup() {
-	pinMode(9, OUTPUT);
-}
-
-void loop() {
-	for (int i = 0; i < 500; i++) {
-		digitalWrite(9, HIGH);
-		delayMicroseconds(500);
-		digitalWrite(9, LOW);
-		delay Microseconds(500);
-	}
-}
-	
-```
-
-1. LDR control for LED
-2. Display on SLCD
-
-#### New ideas 💡
-
-* something new?
-
-#### Resources 🎁
-
-* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
 
 ### Additional Notes 📄
 

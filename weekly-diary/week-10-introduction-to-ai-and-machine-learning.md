@@ -130,43 +130,7 @@ How the session turned out to be of value if it did?
 >
 > You can discard the title if you like.
 
-* Embedded C++
-
-```cpp
-void setup( ) {
-  // run once
-}
-
-void loop() {
-  // run forever
-}
-```
-
-Issue: `avrdude: stk500_recv(): programmer is not responding`
-
-Labs:
-
-1. Blink LED
-2. Frequency output (Piezo Electric Speaker) P15 (D9) -> C1 (10 uF) -> +(speaker)- -> GND
-
-```cpp
-void setup() {
-	pinMode(9, OUTPUT);
-}
-
-void loop() {
-	for (int i = 0; i < 500; i++) {
-		digitalWrite(9, HIGH);
-		delayMicroseconds(500);
-		digitalWrite(9, LOW);
-		delay Microseconds(500);
-	}
-}
-	
-```
-
-1. LDR control for LED
-2. Display on SLCD
+* 
 
 #### New ideas 💡
 
@@ -174,7 +138,7 @@ void loop() {
 
 #### Resources 🎁
 
-* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
+* 
 
 ### Additional Notes 📄
 

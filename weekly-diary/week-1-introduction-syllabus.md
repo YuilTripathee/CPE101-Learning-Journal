@@ -33,7 +33,7 @@ The major steps of engineering work (considering the diversity of roles they wor
 
 We also recall S.M.A.R.T. goal-setting process in this course. I learned this concept in an entrepreneurship session (out of the course). So, I'm just going to place a brief infographic about it.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: <a href="https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b">https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>source: <a href="https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b">https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b</a></p></figcaption></figure>
 
 ### CPE101 Project
 

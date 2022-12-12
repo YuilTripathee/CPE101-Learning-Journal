@@ -8,7 +8,9 @@ Taking the first class at KMUTT on premises.
 
 #### LibreCAD
 
-It is an open-source CAD software.
+![](../.gitbook/assets/image.png)
+
+It is open-source CAD software.
 
 I had watched the videos posted in Facebook guide but could hardly make any sense out of them.
 
@@ -29,6 +31,10 @@ How the session turned out to be of value if it did?
 > * Here you can write the details about the coursework or the activity
 > * It can include the coursework, the software, and framework used, the detailed specifications, something like that!
 
+Here's the CAD drawing I made after learning LibreCAD.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
+
 ### Additional Notes 📄
 
 Anything extra you would like to add goes here.
@@ -39,4 +45,4 @@ Anything extra you would like to add goes here.
 
 ### References 🔖
 
-- Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
+* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf

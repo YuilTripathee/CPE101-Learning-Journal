@@ -8,11 +8,11 @@ Taking the first class at KMUTT on premises.
 
 #### LibreCAD
 
-![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: Wikipedia (LibreCAD page)</p></figcaption></figure>
 
 It is open-source CAD software.
 
-I had watched the videos posted in Facebook guide but could hardly make any sense out of them.
+I had watched the videos posted in the Facebook guide but could hardly make any sense of them.
 
 ## Impact (the 'so what?') 🚀
 
@@ -33,7 +33,7 @@ How the session turned out to be of value if it did?
 
 Here's the CAD drawing I made after learning LibreCAD.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
 
 ### Additional Notes 📄
 

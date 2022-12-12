@@ -1,17 +1,23 @@
+---
+description: Reflexive writing journal from CPE101 Engineering Exploration course.
+---
+
 # Introductions
 
-Just a test content on [https://cpe101.yuil.com.np/](https://cpe101.yuil.com.np/)
+Hi, I'm **Yuil Tripathee** and I'm here to share my learning journey through the **CPE101 Engineering Exploration class**. I've experienced ups and downs, highs and lows, excitement and panic, a breathtaking experience because of the wide variety of topics being covered in the course. Moreover, building robots for the first time from scratch came up to me as a challenging and thrilling experience. In addition to academics and technology during the coursework, we also uncovered a lot of new topics from the soft skill part that is definitely going to help us innovate pragmatically and better address the needs of society.
 
-> About the site! The website is experiencing some glitches. **Currently, work is in progress to fix this soon and the content will be updated immediately after the fix.**
+| Author    | Yuil Tripathee                                                          |
+| --------- | ----------------------------------------------------------------------- |
+| ID        | 650 7050 3480                                                           |
+| Year      | (1/2022)                                                                |
+| Course    | CPE101 - Engineering Exploration                                        |
+| Program   | Bachelor of Engineering in Computer Engineering (International Program) |
+| Institute | King Mongkut's University of Technology Thonburi                        |
 
-| Name   | Yuil Tripathee                   |
-| ------ | -------------------------------- |
-| ID     | 650 7050 3480                    |
-| Year   | (1/2022)                         |
-| Course | CPE101 - Engineering Exploration |
-
-Please be reminded that the content is subject to getting updated in case of additional information is suitable to the context (as the Notion platform uses dynamic URLs, the URL of the specific page may change which is navigable through the master link presented above).
+The curriculum of CPE101 that we took is based on the latest 2021 revision of the CPE International Section.
 
 ## References
+
+External reading sources (off reference), in case you want to read:
 
 * [https://yuil.notion.site/CPE-123-Journal-21217cfd55b4406eb55e5141a6116279](https://yuil.notion.site/CPE-123-Journal-21217cfd55b4406eb55e5141a6116279)

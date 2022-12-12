@@ -1,17 +1,21 @@
 ---
-description: First class of CPE101 - Engineering Exploration
+description: The first class of CPE101 - Engineering Exploration
 ---
 
 # Week 1 - Introduction, Syllabus
+
+
 
 * not able to attend onsite class (visa delays)
 * all the references are coming from the Facebook guide (syllabus, literature review)
 
 ## Coursework (the 'what?') 🤷‍♂️
 
-It is the first day of CPE101 class. Here we learned about the syllabus, reflexive writing, and the norms of being in an engineering profession.
+It is the first day of CPE101 class. Here we learned about the syllabus, reflexive writing journal, and the norms of being in an engineering profession.
 
-> * Any materials regarding the course will go here
+#### **About the term "engineering"**
+
+My conventional understanding is based on Wikipedia's definition, which is to build useful stuff using scientific principles. So, creative applications of scientific principles (conditions applied) are basically engineering works. Things like safety, and the economics of operation, are also valuable considerations.
 
 ## Impact (the 'so what?') 🚀
 

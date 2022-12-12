@@ -7,9 +7,9 @@ description: First class of CPE101 - Engineering Exploration
 * not able to attend onsite class (visa delays)
 * all the references are coming from the Facebook guide (syllabus, literature review)
 
-## A brief introduction (the 'what?') 🤷‍♂️
+## Coursework (the 'what?') 🤷‍♂️
 
-It is the first day of CPE101 class. Here we learned about syllabus, reflexive writing, and the norms of being in an engineering profession.
+It is the first day of CPE101 class. Here we learned about the syllabus, reflexive writing, and the norms of being in an engineering profession.
 
 > * Any materials regarding the course will go here
 
@@ -25,7 +25,7 @@ How the session turned out to be of value if it did?
 > * Potential applications of the works and the lessons carried out during the course.
 > * Any suggestions to yourself, the organization, and other stakeholders?
 
-## A detailed exploration of this coursework/activity 📄
+## Further reading 📄
 
 > * Here you can write the details about the coursework or the activity
 > * It can include the coursework, the software, and framework used, the detailed specifications, something like that!

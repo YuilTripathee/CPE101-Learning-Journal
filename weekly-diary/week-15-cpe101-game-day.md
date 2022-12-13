@@ -14,6 +14,10 @@ It is a card game.
 
 I could not even play properly. I had to constantly check the ranks of high cards on my phone throughout the game (until I got eliminated).
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: </p></figcaption></figure>
+
+Finally, I was able to play poker thanks to friends and organizers.
+
 Also, I participated in playing with a Nintendo ring (which was also an equally fun experience). It is a game controller that lets us play interactive games and also doing good physical exercises.:
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>source: <a href="https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html">https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html</a></p></figcaption></figure>

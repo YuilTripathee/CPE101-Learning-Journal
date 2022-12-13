@@ -34,7 +34,7 @@ Electronics is an integral building block of applied computer projects. Let's su
 * **Diodes** - allows one side flow of current
 * **Breadboard** - board for electronic prototyping without having to build PCBs, which are expensive
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: <a href="https://www.sarcnet.org/electronic-components.html">https://www.sarcnet.org/electronic-components.html</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>source: <a href="https://www.sarcnet.org/electronic-components.html">https://www.sarcnet.org/electronic-components.html</a></p></figcaption></figure>
 
 **Digital Circuits**
 
@@ -60,7 +60,7 @@ TinkerCAD is a good approach to start learning electronic circuit simation. But,
 
 We've also tried simulating electric circuits and the Arduino itself in this web session. It is highly recommended to practise this way since we don't have to bear the cost of working with real physical parts. Also, simulations provides the idea results which would otherwise be disturbed by noise and interference in the physical setup which makes it harder to get the meaningful test results.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.tinkercad.com/things/dEOWWJatCtv-arduino-simulator">https://www.tinkercad.com/things/dEOWWJatCtv-arduino-simulator</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: <a href="https://www.tinkercad.com/things/dEOWWJatCtv-arduino-simulator">https://www.tinkercad.com/things/dEOWWJatCtv-arduino-simulator</a></p></figcaption></figure>
 
 ## References 🔖
 

@@ -14,7 +14,7 @@ It is a card game.
 
 I could not even play properly. I had to constantly check the ranks of high cards on my phone throughout the game (until I got eliminated).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: </p></figcaption></figure>
 
 Finally, I was able to play poker thanks to friends and organizers.
 

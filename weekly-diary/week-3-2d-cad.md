@@ -38,7 +38,7 @@ Furthermore, constructing things out of sheets (steel, acrylic or even aluminum)
 
 Here's the CAD drawing I made after learning LibreCAD.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>source: My own assignment</p></figcaption></figure>
 
 ### References 🔖
 

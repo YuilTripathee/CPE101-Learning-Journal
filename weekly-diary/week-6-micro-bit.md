@@ -30,11 +30,19 @@ It is a well-rounded board to explore electronics, prototyping, testing, and cod
 
 ## Reflections (the 'now what?') 🤔
 
-Using micro:Bit, we can delegate the burden of electronics setup and working with different sensors and the bus system they support (CAN, I2C, SPI). Rather than these, we can opt to learn cooperation, communication, and design thinking.
+Using micro: Bit, we can delegate the burden of electronics setup and work with different sensors and the bus system they support (CAN, I2C, SPI). Rather than these, we can opt to learn cooperation, communication, and design thinking.
 
 ## Further reading 📄
 
-Fun fact: microBit also supports Zephyr RTOS. Using this we can build industrial-grade IoT applications just from an education-purpose-built microcontroller platform.
+Fun fact: micro bit also supports Zephyr RTOS. Using this we can build industrial-grade IoT applications just from an education-purpose-built microcontroller platform.
+
+But for practical reasons (rather than Arduino (AVR), or micro:Bit) based system which is beginner level and targeted to most learners, I opt for using a sophisticated microcontroller platform for the prototyping related works to overcome computational constraints and limitations possessed by these board. My primary choice is using an Espressif-based system (ESP8266, ESP32) or STMicroelectronics-based STM32 implementations.
+
+Here is an example from my practice sessions demonstrating different programming setups on an ESP-32 microcontroller (PlatformIO - ESP IDF and Arduino framework + Arduino IDE).
+
+{% embed url="https://www.youtube.com/watch?ab_channel=YuilTripathee&v=uMiHQFgmsrE" %}
+source: My own personal work
+{% endembed %}
 
 ### References 🔖
 

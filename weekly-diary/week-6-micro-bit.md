@@ -10,7 +10,7 @@ MicroBIT - Many programming options (I prefer Python and JavaScript over MakeCod
 
 ## Coursework (the 'what?') 🤷‍♂️
 
-The focus of week 6 is becoming familiar with the features and operation of the Micro:bit. It is an open source ARM based educational embedded system. Let's take a quick recap about MicroBit specifications:
+The focus of week 6 is becoming familiar with the features and operation of the Micro:bit. It is an open-source ARM-based educational embedded system. Let's take a quick recap of MicroBit specifications:
 
 | Name         | BBC micro:Bit                                                                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,19 +22,19 @@ The focus of week 6 is becoming familiar with the features and operation of the 
 
 The Micro:bit is a portable computer that shows us how hardware and software interact with each other. It has few buttons, many sensors, an LED 2D display matrix, and other programmable I/O functions. The micro:bit also has built-in temperature and light sensors, as well as connectors around the bottom that can be used to add extras, since it has adequate GPIO ports.
 
-It can be programmed using USB connector and desktop, but also by pairing it to the tablet/mobile devices via Bluetooth. Coding process is way too convenient. Additionally, it has two programmable buttons and 25 LED lights, which can be utilized for countless possibilities. Creative ideas are still there to be developed regarding the microcontrollers.
+It can be programmed using a USB connector and desktop, but also by pairing it to tablet/mobile devices via Bluetooth. The coding process is way too convenient. Additionally, it has two programmable buttons and 25 LED lights, which can be utilized for countless possibilities. Creative ideas are still there to be developed regarding microcontrollers.
 
 ## Impact (the 'so what?') 🚀
 
-It is a well rounded board to explore electronics, prototyping, testing and coding with a gamified experience. The micro:bit can be configured to perform a variety of tasks, including acting as a game controller, a digital watch, and a home security monitor. Therefore, we may utilize the micro:bit for a variety of tasks and can adapt them to employ them in projects to control the actions and performances of small robots.
+It is a well-rounded board to explore electronics, prototyping, testing, and coding with a gamified experience. The micro:bit can be configured to perform a variety of tasks, including acting as a game controller, a digital watch, and a home security monitor. Therefore, we may utilize the micro:bit for a variety of tasks and can adapt them to employ them in projects to control the actions and performances of small robots.
 
 ## Reflections (the 'now what?') 🤔
 
-Using micro:Bit, we can delegate the burden of electronics setup and working with different sensors and the bus system they support (CAN, I2C, SPI). Rather than these, we can opt to learn cooperation, communication and design thinking.
+Using micro:Bit, we can delegate the burden of electronics setup and working with different sensors and the bus system they support (CAN, I2C, SPI). Rather than these, we can opt to learn cooperation, communication, and design thinking.
 
 ## Further reading 📄
 
-Fun fact: microBit also support Zephyr RTOS. Using this we can build industrial grade IoT applications just from an education-purpose built microcontroller platform.
+Fun fact: microBit also supports Zephyr RTOS. Using this we can build industrial-grade IoT applications just from an education-purpose-built microcontroller platform.
 
 ### References 🔖
 
@@ -59,3 +59,4 @@ Expert review of micro:Bit board:
 * [micro:bit for Robotics - YouTube](https://www.youtube.com/watch?v=iwaRidlm2RM\&ab\_channel=KevinMcAleer)
 * [BBC micro:bit v2 Review! : A Good Recommendation? - YouTube](https://www.youtube.com/watch?v=QHiXLPorrF4\&ab\_channel=Robu.in)
 * [102110408 Seeed Technology Co., Ltd | คอมพิวเตอร์แบบฝัง | DigiKey](https://www.digikey.co.th/th/products/detail/seeed-technology-co.,-ltd/102110408/16680580)
+

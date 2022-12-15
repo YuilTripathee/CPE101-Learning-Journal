@@ -10,7 +10,7 @@ Unlike other lecture classes, that day we had to present the progress of our pro
 
 ## Course (the 'what?') 🤷‍♂️
 
-Our group decided to create an AR game. In front of the TAs and other ajahns, we discussed the issues we had encountered, and they provided suggestions on what should be done to prevent future issues.
+Our group decided to create an RPG game. In front of the TAs and other ajahns, we discussed the issues we had encountered, and they provided suggestions on what should be done to prevent future issues.
 
 ## Impact (the 'so what?') 🚀
 

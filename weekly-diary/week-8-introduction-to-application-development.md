@@ -27,7 +27,7 @@ But for general context, mobile app developers are referred to as app developers
 
 We can host and create websites using the free and open-source CMS called WordPress. WordPress has a template system and plugin architecture, allowing us to modify any website to meet our business, blog, portfolio, or even an online store. This major feature enables users to alter the look and feel of the website.
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

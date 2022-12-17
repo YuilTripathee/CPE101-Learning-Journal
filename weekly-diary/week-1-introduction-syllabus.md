@@ -57,6 +57,14 @@ I'm further excited to learn these concepts with a hands-on experience in furthe
 
 ## Additional References
 
+### Follow up goals
+
+This was one of the important topics discussed in the session. This practice helps bring positive changes and improvements in the existing technical solutions.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: My scribbles from the class session</p></figcaption></figure>
+
+### Action plan
+
 Here are some of the helpful infographics related to this week's session:
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>source: <a href="https://slidemodel.com/how-to-present-an-action-plan/">https://slidemodel.com/how-to-present-an-action-plan/</a></p></figcaption></figure>

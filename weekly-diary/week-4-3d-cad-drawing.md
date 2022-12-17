@@ -44,7 +44,7 @@ For good quality of work, I would least recommend TinkerCAD and rather opt for s
 
 I also enjoyed playing with Fusion 360 for 3D CAD applications (as well as PCB Schematic Design):
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: Reviewing Fusion 360</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>source: Reviewing Fusion 360</p></figcaption></figure>
 
 Here is a sample 3D drawing made using TinkerCAD.
 

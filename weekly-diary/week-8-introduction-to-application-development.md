@@ -53,4 +53,4 @@ With Django, developers have more control over the development process, as well 
 
 Recap of basic web application systems design:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://litslink.com/blog/web-application-architecture">https://litslink.com/blog/web-application-architecture</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>source: <a href="https://litslink.com/blog/web-application-architecture">https://litslink.com/blog/web-application-architecture</a></p></figcaption></figure>

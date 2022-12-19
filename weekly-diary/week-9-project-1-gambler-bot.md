@@ -32,7 +32,11 @@ I've realized a few benefits of working on a group project at a university durin
 * **Enhance Time Management Skills**: Group projects also provide an ideal platform for students to develop their time-management skills. They must learn to balance the workload of the group and divide the tasks accordingly so that the project can be completed on time. 3
 * **Increase Creative Thinking**: Working in a group encourages students to think outside the box and come up with creative solutions to the task at hand. This helps them to develop their critical thinking skills and apply them to future projects.
 * **Learn How to Take Initiative**: Group projects also provide students with the opportunity to take initiative and lead the group. This helps them to become more confident and responsible in taking on tasks and completing them successfully.
-* **Develop Leadership Skills**: Working in a group project also provides an opportunity for students to practice their leadership skills. Group members can take turns leading the discussion, brainstorming, and delegating tasks, which helps them to develop their leadership capabilities.
+* **Develop Leadership Skills**: Working on a group project also provides an opportunity for students to practice their leadership skills. Group members can take turns leading the discussion, brainstorming, and delegating tasks, which helps them to develop their leadership capabilities.
+
+![](../.gitbook/assets/313969019\_482472103913439\_6090129924260278935\_n.jpg)![](<../.gitbook/assets/image (1).png>)![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (5).png>)
+
+Some glimpses of working on Gambler bot and collection of peer's project work (last picture). (source: INNO-X KMUTT and CPE101 KMUTT social handles)
 
 ### References:
 

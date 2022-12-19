@@ -26,7 +26,7 @@ The CIA triad is an information security model made up of the three main compone
 * **Integrity** refers to ensuring that data is accurate and reliable.
 * **Availability** refers to ensuring that data and systems are accessible when needed by authorized users.
 
-<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>source: <a href="https://www.bahi-hussein.com/what-is-the-cia-triad/">https://www.bahi-hussein.com/what-is-the-cia-triad/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5) (1).png" alt=""><figcaption><p>source: <a href="https://www.bahi-hussein.com/what-is-the-cia-triad/">https://www.bahi-hussein.com/what-is-the-cia-triad/</a></p></figcaption></figure>
 
 ## Current cyber crimes development (focused in the ASEAN region)
 
@@ -52,9 +52,9 @@ We used the website hackthissite.com to test our understanding of cyber security
 
 Here is the security assessment and "Penetration Test" details - navigating the pentest world:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>source: <a href="https://circleid.com/posts/20161128_navigating_the_pentest_world">https://circleid.com/posts/20161128_navigating_the_pentest_world</a> (Gunter Ollman, 2016)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>source: <a href="https://circleid.com/posts/20161128_navigating_the_pentest_world">https://circleid.com/posts/20161128_navigating_the_pentest_world</a> (Gunter Ollman, 2016)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: same as above</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>source: same as above</p></figcaption></figure>
 
 ### Keynotes 📝
 

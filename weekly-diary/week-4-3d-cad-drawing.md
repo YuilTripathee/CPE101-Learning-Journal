@@ -16,7 +16,7 @@ Using TinkerCAD web application.
 * We use these shapes to make new shapes, therefore the term constructive solid geometry.
 *   We can either use fill or a hole out of shape that would alter the final design.
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>source: Wikipedia article on CSG <a href="https://en.wikipedia.org/wiki/Constructive_solid_geometry">https://en.wikipedia.org/wiki/Constructive_solid_geometry</a></p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>source: Wikipedia article on CSG <a href="https://en.wikipedia.org/wiki/Constructive_solid_geometry">https://en.wikipedia.org/wiki/Constructive_solid_geometry</a></p></figcaption></figure>
 
 The other process of making 3D models applies the use of Polygon mesh, which is quite opposite process from CSG. Software like Blender uses this technique.
 
@@ -32,7 +32,7 @@ Assignment works:
 
 This was one of the assignment samples that we had to make using 3D CSG (Constructive Solid Geometry):
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>source: CPE101 (1/2022) Assignment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>source: CPE101 (1/2022) Assignment</p></figcaption></figure>
 
 ## Impact (the 'so what?') 🚀
 

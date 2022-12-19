@@ -48,7 +48,7 @@ We used the website hackthissite.com to test our understanding of cyber security
 
 ## Further reading (optional) 📄
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.hackthissite.org/">https://www.hackthissite.org/</a> (This is the website used for exercise at the end of class)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: <a href="https://www.hackthissite.org/">https://www.hackthissite.org/</a> (This is the website used for exercise at the end of class)</p></figcaption></figure>
 
 ### Keynotes 📝
 

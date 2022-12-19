@@ -38,6 +38,6 @@ I've realized a few benefits of working on a group project at a university durin
 
 INEX Educational Kit
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: <a href="http://www.inexglobal.com/products.php?pcode=ibitrobotkit&#x26;type=educationalkit">http://www.inexglobal.com/products.php?pcode=ibitrobotkit&#x26;type=educationalkit</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>source: <a href="http://www.inexglobal.com/products.php?pcode=ibitrobotkit&#x26;type=educationalkit">http://www.inexglobal.com/products.php?pcode=ibitrobotkit&#x26;type=educationalkit</a></p></figcaption></figure>
 
 * [http://www.inexglobal.com/products.php?pcode=ibitrobotkit\&type=educationalkit](http://www.inexglobal.com/products.php?pcode=ibitrobotkit\&type=educationalkit)

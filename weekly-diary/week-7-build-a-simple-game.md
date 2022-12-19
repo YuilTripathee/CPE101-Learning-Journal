@@ -10,11 +10,11 @@ This week, we learned about learning the Unity engine to create video games.
 
 ## Coursework (the 'what?') 🤷‍♂️
 
-Due to the ability to easily and quickly produce 3D visuals without the need for considerable programming skills, Unity is a multi-platform environment that works excellent for developing applications, mobile games, and console games.
+Due to the ability to easily and quickly produce 3D visuals without the need for considerable programming skills, Unity is a multi-platform environment that works excellently for developing applications, mobile games, and console games.
 
-Unity is simple to use and offers the best conveniences for creating games of a reasonable size. Developers can utilize unity as a development platform and can program as they like in order to create an advanced game. C# is one of the languages that is most frequently used in game creation.
+Unity is simple to use and offers the best conveniences for creating games of a reasonable size. Developers can utilize unity as a development platform and can program as they like in order to create an advanced game. C# is one of the languages that are most frequently used in game creation.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>source: <a href="https://dotnet.microsoft.com/en-us/apps/games/unity">https://dotnet.microsoft.com/en-us/apps/games/unity</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>source: <a href="https://dotnet.microsoft.com/en-us/apps/games/unity">https://dotnet.microsoft.com/en-us/apps/games/unity</a></p></figcaption></figure>
 
 Beginners can use free models from the Unity Asset Store as well as free game playgrounds. Since many playgrounds and models are already available for some of the models, they can decide whether to create 2D or 3D games. Even the most experienced game developers can buy whatever they want from that asset store if they become bored designing models or game templates and would prefer to build game motions or programs instead.
 
@@ -22,21 +22,32 @@ Beginners can use free models from the Unity Asset Store as well as free game pl
 
 Unity allows advanced interaction with codes that developers can export to the platform they're going to create for (mobile or desktop). There is also a premium pro edition that is lovely and filled with simple advice. In addition, compared to how games used to be created in the past, using the Unity engine to create games is not as difficult today.
 
-Interactions with the visual components is already a great feature in itself. The feature is much well developed as compared to other game engines.
+Interactions with the visual components are already a great feature in itself. The feature is much more well-developed as compared to other game engines.
 
 ## Reflections (the 'now what?') 🤔
 
-I somehow resent the pricing model of Unity game engine from possible game developer perspective. I wished if open source alternatives could catch up in this area (like blender). This way, we can get rid of vendor-lock ins. [Godot](https://godotengine.org/) is a wonderful free and open source cross-platform engine which shows a great deal of poten
+I somehow resent the pricing model of the Unity game engine from a possible game developer perspective. I wished if open source alternatives could catch up in this area (like blender). This way, we can get rid of vendor-lock-ins. [Godot](https://godotengine.org/) is a wonderful free and open-source cross-platform engine that shows a great deal of potential.
 
-To be fair, game development is something that I was always trying to avoid (since my first gaming project back in 2017). My friend also shared me that Unity is a fantastic tool for doing simulations. As a result, this benefits the machine learning projects as well.
+To be fair, game development is something that I was always trying to avoid (since my first gaming project back in 2017). My friend also shared with me that Unity is a fantastic tool for doing simulations. As a result, this benefits the machine learning projects as well.
 
 ## Further reading 📄
 
-\[Unity Window Photo]
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>source: <a href="https://docs.unity3d.com/es/2019.4/uploads/Main/Editor-Breakdown.png">https://docs.unity3d.com/es/2019.4/uploads/Main/Editor-Breakdown.png</a></p></figcaption></figure>
+
+The components of Unity's main editor:
+
+|   | Description                                                                                    |
+| - | ---------------------------------------------------------------------------------------------- |
+| A | Toolbar                                                                                        |
+| B | Hierarchy window (show all game object in the scene)                                           |
+| C | The game view (represent final render published game)                                          |
+| D | The scene view (level design)                                                                  |
+| E | The inspector window (view and edit properties and settings everything in the Unity editor)    |
+| F | The project window (show assets, models, sound, scripts, images, and all files in the project) |
 
 ### References 🔖
 
-Unity assets store: https://assetstore.unity.com/
+Unity assets store: [https://assetstore.unity.com/](https://assetstore.unity.com/)
 
 Assets:
 

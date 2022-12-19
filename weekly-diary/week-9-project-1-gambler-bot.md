@@ -22,14 +22,22 @@ Given that our group is made up of both Thai and international students, this li
 
 I now have more information about making machines and robots, and I am better prepared should I ever get the chance to make another one in the future. Every student in the engineering field should be familiar with the fundamentals of a machine.
 
-Also, we had acquired the honesty and commitment necessary to establish this business, and I may use these in future situations.
+Also, we acquired the honesty and commitment necessary to establish this business, and I may use these in future situations.
 
 ## Further reading 📄
 
-I've realized few benefits of working in a group project in a university freshmen year.
+I've realized a few benefits of working on a group project at a university during my freshmen year.
 
-* **Develop Teamwork Skills:** Working in a group project requires students to work collaboratively in order to successfully complete the task. This provides a great opportunity to develop important teamwork skills such as communication, problem solving and conflict resolution.
-* **Enhance Time Management Skills**: Group projects also provide an ideal platform for students to develop their time-management skills. They must learn to balance the workload of the group and divide the tasks accordingly, so that the project can be completed on time. 3
+* **Develop Teamwork Skills:** Working on a group project requires students to work collaboratively in order to successfully complete the task. This provides a great opportunity to develop important teamwork skills such as communication, problem-solving, and conflict resolution.
+* **Enhance Time Management Skills**: Group projects also provide an ideal platform for students to develop their time-management skills. They must learn to balance the workload of the group and divide the tasks accordingly so that the project can be completed on time. 3
 * **Increase Creative Thinking**: Working in a group encourages students to think outside the box and come up with creative solutions to the task at hand. This helps them to develop their critical thinking skills and apply them to future projects.
 * **Learn How to Take Initiative**: Group projects also provide students with the opportunity to take initiative and lead the group. This helps them to become more confident and responsible in taking on tasks and completing them successfully.
 * **Develop Leadership Skills**: Working in a group project also provides an opportunity for students to practice their leadership skills. Group members can take turns leading the discussion, brainstorming, and delegating tasks, which helps them to develop their leadership capabilities.
+
+### References:
+
+INEX Educational Kit
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>source: <a href="http://www.inexglobal.com/products.php?pcode=ibitrobotkit&#x26;type=educationalkit">http://www.inexglobal.com/products.php?pcode=ibitrobotkit&#x26;type=educationalkit</a></p></figcaption></figure>
+
+* [http://www.inexglobal.com/products.php?pcode=ibitrobotkit\&type=educationalkit](http://www.inexglobal.com/products.php?pcode=ibitrobotkit\&type=educationalkit)

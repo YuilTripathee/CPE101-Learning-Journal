@@ -36,17 +36,17 @@ We must strive to avoid clicking on URLs that automatically redirect, and we mus
 
 ## Impact (the 'so what?') 🚀
 
-> Cybersecurity is important because it helps protect organizations, businesses, and individuals from malicious attacks that could compromise their sensitive data and personal information. Cybersecurity is also important to protect networks and systems from unauthorized access, disruptions, or modifications that can compromise the confidentiality, integrity, and availability of data and systems.
->
-> As more organizations rely on digital networks and systems to store and send information, cybersecurity is becoming more and more crucial. Organizations may defend their data and users from thieves, hackers, and other nefarious actors by maintaining the security of these networks and systems.
+Cybersecurity is important because it helps protect organizations, businesses, and individuals from malicious attacks that could compromise their sensitive data and personal information. Cybersecurity is also important to protect networks and systems from unauthorized access, disruptions, or modifications that can compromise the confidentiality, integrity, and availability of data and systems.
+
+As more organizations rely on digital networks and systems to store and send information, cybersecurity is becoming more and more crucial. Organizations may defend their data and users from thieves, hackers, and other nefarious actors by maintaining the security of these networks and systems.
 
 ## Reflections (the 'now what?') 🤔
 
-> We used the website hackthissite.com to test our understanding of cyber security. This website serves as an example of penetration testing, and it's a great way to discover how hackers employ techniques to evaluate system penetration before actual hacks take place. So, learning how to hack is undoubtedly one of the best skills that every IT specialist should have.
+We used the website hackthissite.com to test our understanding of cyber security. This website serves as an example of penetration testing, and it's a great way to discover how hackers employ techniques to evaluate system penetration before actual hacks take place. So, learning how to hack is undoubtedly one of the best skills that every IT specialist should have.
 
 ## Further reading (optional) 📄
 
-### Key notes 📝
+### Keynotes 📝
 
 > * CIA triad
 > * Cyber threat (def. by Thai law)
@@ -123,7 +123,3 @@ We must strive to avoid clicking on URLs that automatically redirect, and we mus
 > #### Resources 🎁
 >
 > The additional resources provided in the class were osboxes.org website, Parrot 7zipped ISO file, setup for Oracle Virtualbox, and Ubuntu ova file (open virtualization format archive).
-
-### References 🔖
-
-> List of references

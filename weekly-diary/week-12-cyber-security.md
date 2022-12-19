@@ -50,6 +50,12 @@ We used the website hackthissite.com to test our understanding of cyber security
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>source: <a href="https://www.hackthissite.org/">https://www.hackthissite.org/</a> (This is the website used for exercise at the end of class)</p></figcaption></figure>
 
+Here is the security assessment and "Penetration Test" details - navigating the pentest world:
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>source: <a href="https://circleid.com/posts/20161128_navigating_the_pentest_world">https://circleid.com/posts/20161128_navigating_the_pentest_world</a> (Gunter Ollman, 2016)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: same as above</p></figcaption></figure>
+
 ### Keynotes 📝
 
 > * CIA triad

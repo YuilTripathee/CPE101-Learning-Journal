@@ -44,6 +44,6 @@ source: Casino Royale (2006)
 
 ### References 🔖
 
-* https://www.wikihow.com/Play-Poker
-* https://www.powerbuy.co.th/th/product/nintendo-switch-g-sf-nintendo-ring-fit-adventure-273677
-* https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html
+* [https://www.wikihow.com/Play-Poker](https://www.wikihow.com/Play-Poker)
+* [https://www.powerbuy.co.th/th/product/nintendo-switch-g-sf-nintendo-ring-fit-adventure-273677](https://www.powerbuy.co.th/th/product/nintendo-switch-g-sf-nintendo-ring-fit-adventure-273677)
+* [https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html](https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Ring-Fit-Adventure-1638708.html)

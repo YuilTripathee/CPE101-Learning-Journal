@@ -28,6 +28,12 @@ It is a web-based tool from Autodesk Inc. that lets us prototype electronics cir
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>source: <a href="https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus">https://www.youtube.com/watch?v=T9t6d9qOvn4&#x26;ab_channel=ThomasNikolaus</a></p></figcaption></figure>
 
+Assignment works:
+
+This was one of the assignment samples that we had to make using 3D CSG (Constructive Solid Geometry):
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: CPE101 (1/2022) Assignment</p></figcaption></figure>
+
 ## Impact (the 'so what?') 🚀
 
 We were going to use 3D-printed parts for the iBit robot extension (gambler robot project). Therefore, we need a 3D design tool to design such parts. Using TinkerCAD would let us rapidly create and test different designs that are suitable for the build of the robot.
@@ -38,7 +44,7 @@ This activity also directly correlates with the professional roles where hardwar
 
 Certainly, constructive solid geometry is not the right fit solution when it comes to making the best designs. Moreover, TinkerCAD is not as powerful as its alternatives, which makes it a poor choice for building 3D models.
 
-For good quality of work, I would least recommend TinkerCAD and rather opt for solutions like Fusion 360, and DS Solidworks. Nevertheless, I would consider using TinkerCAD for rapid prototyping use cases thanks to the speed and level of comfort the tool provides
+For good quality work, I would least recommend TinkerCAD and rather opt for solutions like Fusion 360, and DS Solidworks. Nevertheless, I would consider using TinkerCAD for rapid prototyping use cases thanks to the speed and level of comfort the tool provides
 
 ## Further reading 📄
 

@@ -6,7 +6,7 @@ description: 2D CAD and CNC Laser Cutter works
 
 September 3, 2022
 
-Taking the first class at KMUTT on premises.
+Taking the first class at KMUTT on-premises.
 
 ## Coursework (the 'what?') 🤷‍♂️
 
@@ -43,3 +43,5 @@ Here's the CAD drawing I made after learning LibreCAD.
 ### References 🔖
 
 * Documentation of LibreCAD: https://librecad.org/
+
+**CAUTION: Things to consider before work - tools, line types, projection.**

@@ -23,5 +23,6 @@ The curriculum of CPE101 that we took is based on the latest 2021 revision of th
 External reading sources (off reference), in case you want to read:
 
 * [https://web.facebook.com/groups/420959493406634/learning\_content](https://web.facebook.com/groups/420959493406634/learning\_content) (CPE101 Learning Hub)
+* [https://docs.google.com/forms/d/e/1FAIpQLScxQLJ5dP1hjndiVYYg5-ALkrDI3g-ZYYBOGjgsqzO76zuRtA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScxQLJ5dP1hjndiVYYg5-ALkrDI3g-ZYYBOGjgsqzO76zuRtA/viewform) (assignments submissions portal)
 * [http://www.inexglobal.com/products.php?pcode=ibitrobotkit\&type=educationalkit](http://www.inexglobal.com/products.php?pcode=ibitrobotkit\&type=educationalkit)
 * [https://yuil.notion.site/CPE-123-Journal-21217cfd55b4406eb55e5141a6116279](https://yuil.notion.site/CPE-123-Journal-21217cfd55b4406eb55e5141a6116279)

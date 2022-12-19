@@ -9,6 +9,7 @@ References for my UI design roles:
 * [https://www.youtube.com/watch?v=sc3h5JXtIzw\&ab\_channel=RiotGames](https://www.youtube.com/watch?v=sc3h5JXtIzw\&ab\_channel=RiotGames)
 * [https://www.youtube.com/watch?v=GXr2zNKN-fk\&ab\_channel=GameDevwithJacquelynneHei](https://www.youtube.com/watch?v=GXr2zNKN-fk\&ab\_channel=GameDevwithJacquelynneHei)
 * [https://www.youtube.com/watch?v=cQVe6D2flpI\&ab\_channel=AmalieKae](https://www.youtube.com/watch?v=cQVe6D2flpI\&ab\_channel=AmalieKae)
+* [https://www.youtube.com/watch?v=Qw8iK7K3saw\&ab\_channel=JesseShowalter](https://www.youtube.com/watch?v=Qw8iK7K3saw\&ab\_channel=JesseShowalter)
 
 Color palette:
 

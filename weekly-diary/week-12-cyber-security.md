@@ -26,7 +26,7 @@ The CIA triad is an information security model made up of the three main compone
 * **Integrity** refers to ensuring that data is accurate and reliable.
 * **Availability** refers to ensuring that data and systems are accessible when needed by authorized users.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: <a href="https://www.bahi-hussein.com/what-is-the-cia-triad/">https://www.bahi-hussein.com/what-is-the-cia-triad/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>source: <a href="https://www.bahi-hussein.com/what-is-the-cia-triad/">https://www.bahi-hussein.com/what-is-the-cia-triad/</a></p></figcaption></figure>
 
 ## Current cyber crimes development (focused in the ASEAN region)
 
@@ -47,6 +47,8 @@ As more organizations rely on digital networks and systems to store and send inf
 We used the website hackthissite.com to test our understanding of cyber security. This website serves as an example of penetration testing, and it's a great way to discover how hackers employ techniques to evaluate system penetration before actual hacks take place. So, learning how to hack is undoubtedly one of the best skills that every IT specialist should have.
 
 ## Further reading (optional) 📄
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.hackthissite.org/">https://www.hackthissite.org/</a> (This is the website used for exercise at the end of class)</p></figcaption></figure>
 
 ### Keynotes 📝
 

@@ -32,7 +32,7 @@ Assignment works:
 
 This was one of the assignment samples that we had to make using 3D CSG (Constructive Solid Geometry):
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: CPE101 (1/2022) Assignment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>source: CPE101 (1/2022) Assignment</p></figcaption></figure>
 
 ## Impact (the 'so what?') 🚀
 

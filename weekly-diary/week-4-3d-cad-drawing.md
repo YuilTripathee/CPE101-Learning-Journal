@@ -48,4 +48,4 @@ I also enjoyed playing with Fusion 360 for 3D CAD applications (as well as PCB S
 
 Here is a sample 3D drawing made using TinkerCAD.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>source: my work</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>source: my work</p></figcaption></figure>

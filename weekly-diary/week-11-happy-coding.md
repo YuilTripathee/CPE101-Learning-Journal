@@ -48,13 +48,83 @@ void loop() {
 
 This lab is a little different in that, depending on the coding, we can use the buzzer to create any song we desire.
 
+```cpp
+#define TIME_DELAY 500
+#define PIN_BUZZER 9
+
+void setup() {
+  pinMode(PIN_BUZZER, OUTPUT);
+}
+
+void loop() {
+ for(int i = 0; i < 500; i++) {
+    digitWrite(PIN_BUZZER, HIGH);
+    delayMicroseconds(TIME_DELAY); // maintain duty cycle
+    digitWrite(PIN_BUZZER, LOW);
+    delayMicroseconds(TIME_DELAY);
+  }
+  delay(500);
+}
+```
+
 ### Lab 3 - (Light Dependent Resistor)
 
 An electronic component that is light-sensitive is an LDR. The resistance alters as light strikes it. Therefore, in this lab, we must modify the code so that the resistance is around 3000.
 
+```cpp
+void setup() {
+  pinMode(1, INPUT);
+  Serial.begin(115200); // baud rate depends on the board-to-board
+}
+
+void loop() {
+  int LDR = analogRead(1);
+  Serial.println(LDR);
+  delay(500);
+}
+```
+
 ### Lab 4 - (Display on Super LCD)
 
 The sample code used in this lab is already described in the professor's lab manual. However, we were given the task of making the text go from the LCD's beginning to end and then loop back through the beginning after it was finished.
+
+```cpp
+#include <SoftwareSerial.h>
+#define rxPin 3
+#define txPin 2
+//set up a new serial port
+SoftwareSerial mySerial = SoftwareSerial(rxPin, txPin);
+
+void setup() {
+  //set txPin high
+  digitalWrite(txPin, HIGH);
+  delay(1000);
+
+  //define pin modes for tx, rx pins:
+  pinMode(rxPin, INPUT);
+  pinMode(txPin, OUTPUT);
+
+  //set the data rate for the serial ports
+  mySerial.begin(9600
+  //say something
+  mySerial.write(128);
+  mySerial.write(129);
+  mySerial.write(0xFE);
+  mySerial.write(0x38);   //2 line display
+  mySerial.write(0xFE);   //Send command
+  mySerial.write(0xC0);   //Show on line 2
+
+  delay(2000);
+}
+
+void loop(){
+  mySerial.write(130);
+  mySerial.print("KALASIN");
+  mySerial.write(154);
+  mySerial.print("Kuchi");
+  delay(500);
+}
+```
 
 ## Impact (the 'so what?') 🚀
 

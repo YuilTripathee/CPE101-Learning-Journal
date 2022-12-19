@@ -61,7 +61,7 @@ I'm further excited to learn these concepts with a hands-on experience in furthe
 
 This was one of the important topics discussed in the session. This practice helps bring positive changes and improvements in the existing technical solutions.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: My scribbles from the class session</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>source: My scribbles from the class session</p></figcaption></figure>
 
 ### Action plan
 

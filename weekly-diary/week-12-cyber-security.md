@@ -26,7 +26,7 @@ The CIA triad is an information security model made up of the three main compone
 * **Integrity** refers to ensuring that data is accurate and reliable.
 * **Availability** refers to ensuring that data and systems are accessible when needed by authorized users.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.bahi-hussein.com/what-is-the-cia-triad/">https://www.bahi-hussein.com/what-is-the-cia-triad/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>source: <a href="https://www.bahi-hussein.com/what-is-the-cia-triad/">https://www.bahi-hussein.com/what-is-the-cia-triad/</a></p></figcaption></figure>
 
 ## Current cyber crimes development (focused in the ASEAN region)
 

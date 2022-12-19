@@ -105,7 +105,7 @@ void setup() {
   pinMode(txPin, OUTPUT);
 
   //set the data rate for the serial ports
-  mySerial.begin(9600
+  mySerial.begin(9600);
   //say something
   mySerial.write(128);
   mySerial.write(129);
@@ -119,9 +119,9 @@ void setup() {
 
 void loop(){
   mySerial.write(130);
-  mySerial.print("KALASIN");
+  mySerial.print("CPE#36");
   mySerial.write(154);
-  mySerial.print("Kuchi");
+  mySerial.print("     KMUTT    ");
   delay(500);
 }
 ```

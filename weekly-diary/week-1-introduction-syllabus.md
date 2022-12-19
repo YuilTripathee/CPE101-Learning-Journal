@@ -35,11 +35,13 @@ We also recall S.M.A.R.T. goal-setting process in this course. I learned this co
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>source: <a href="https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b">https://venngage.com/templates/infographics/colorful-smart-goals-process-infographic-dafbc103-a27f-498a-bde0-f6d6d34cd26b</a></p></figcaption></figure>
 
+**Tip**: Time is the most valuable resource you’ll ever have.
+
 ### CPE101 Project
 
-We were going to have two projects as part of the course. The first one is building **a gambler bot**. The team will be prefixed by the organizers (CPE101 class) we had to go pick some dice around by manually controlling the robot. The collected dice had to be put on to the wooden stage. The scores will be based on the number of dice and values on top-facing dice.
+We were going to have two projects as part of the course. The first one is building **a gambler bot**. The team will be prefixed by the organizers (CPE101 class) we had to go pick some dice around by manually controlling the robot. The collected dice had to be put onto the wooden stage. The scores will be based on the number of dice and values on top-facing dice.
 
-**Second project** let us choose the project idea and team by ourselves. We had to work on a team to reach the final end of the project and then we are going to showcase it at the end of the course. The project had to be organized using the Planner tool for better team coordination.
+**The second project** let us choose the project idea and team by ourselves. We had to work on a team to reach the final end of the project and then we are going to showcase it at the end of the course. The project had to be organized using the Planner tool for better team coordination.
 
 ## Impact (the 'so what?') 🚀
 

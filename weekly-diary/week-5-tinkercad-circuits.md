@@ -64,6 +64,8 @@ We've also tried simulating electric circuits and the Arduino itself in this web
 
 ## References 🔖
 
+**CAUTION: GET THESE READY (INCLUDING INDUCTOR COILS) WHEN PERFORMING CIRCUIT RELATED OPERATIONS.**
+
 * Resistor color coding: [https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
 * Capacitor color coding: [https://www.electronics-tutorials.ws/capacitor/cap\_5.html](https://www.electronics-tutorials.ws/capacitor/cap\_5.html)
 * Finding capacitance: [https://www.electricaltechnology.org/2022/01/capacitor-color-codes.html](https://www.electricaltechnology.org/2022/01/capacitor-color-codes.html)

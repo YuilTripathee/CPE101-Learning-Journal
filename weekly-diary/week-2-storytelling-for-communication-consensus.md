@@ -40,9 +40,16 @@ This gives a structure for storytelling:
 
 ### Consensus decision
 
-We won't be making good decisions based on assumptions, sense of feeling or judgment. Therefore, while agreeing to a technical decision conflict-management techniques like voting or compromising should be discarded. Instead of such measures, the decisions should be agreed by all the decision-makers involved and centered on logic, facts, and rational though (like conventional wisdom).
+We won't be making good decisions based on assumptions, sense of feeling, or judgment. Therefore, while agreeing to a technical decision conflict-management techniques like voting or compromising should be discarded. Instead of such measures, the decisions should be agreed upon by all the decision-makers involved and centered on logic, facts, and rational thought (like conventional wisdom).
 
 Unlike other kinds of work (as opposed to engineering), being open to participating in healthy conflicts brings the best in the solution we develop.
+
+Basic guidelines:
+
+1. Everyone must agree (not accede)
+2. Center on logic discussion (no opinion)
+3. Encourage conflict (bring information and facts to light)
+4. Avoid voting and tradeoff
 
 ## Impact (the 'so what?') 🚀
 

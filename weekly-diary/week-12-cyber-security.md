@@ -10,13 +10,13 @@ Date: 2022-11-11 09:39
 
 Event: Classroom lecture
 
-We discussed basics of cyber security, current developments and safety measures in this session, followed by a CTF game where we got a chance to explore web application vulnerability patterns.
+We discussed the basics of cyber security, current developments, and safety measures in this session, followed by a CTF game where we got a chance to explore web application vulnerability patterns.
 
 ## Coursework (the 'what?') 🤷‍♂️
 
 The protection of computer systems and networks from information disclosure, theft, or damage to our essential systems and sensitive information from cyberattacks is known as computer security, or cybersecurity, which is something we learned about this week.
 
-In order to be able to stop a hack from being committed by hackers and other anonymous users who attempted to interact with the internal system, we had researched the significance of cybersecurity and penetration testing.
+In order to be able to stop a hack from being committed by hackers and other anonymous users who attempted to interact with the internal system, we researched the significance of cybersecurity and penetration testing.
 
 ### CIA Triad
 
@@ -26,11 +26,13 @@ The CIA triad is an information security model made up of the three main compone
 * **Integrity** refers to ensuring that data is accurate and reliable.
 * **Availability** refers to ensuring that data and systems are accessible when needed by authorized users.
 
-## Current cyber crimes development (focused in ASEAN region)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>source: <a href="https://www.bahi-hussein.com/what-is-the-cia-triad/">https://www.bahi-hussein.com/what-is-the-cia-triad/</a></p></figcaption></figure>
+
+## Current cyber crimes development (focused in the ASEAN region)
 
 We also looked into the various people and approaches that could pose a cyber threat. As an illustration, consider **phishing** websites that masquerade as the official websites of well-known corporations but are actually just imitations of legitimate corporate websites. Users may mistakenly believe they are using a real website and enter their login information on the phony one. In the end, the login information is handed to hackers, who then have access to user accounts.
 
-Following is a list of potential threat actors as per the lecture: criminal, government, terrorst, employee, contractor, whistleblowers and so on.
+Following is a list of potential threat actors as per the lecture: criminals, government, terrorists, employees, contractors, whistleblowers, and so on.
 
 We must strive to avoid clicking on URLs that automatically redirect, and we must always scan USB drives before connecting them to our digital devices in order to prevent someone from infecting our computer system with malware or a virus.
 

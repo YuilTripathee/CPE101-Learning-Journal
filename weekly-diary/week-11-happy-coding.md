@@ -12,19 +12,37 @@ Activity session 🏫 Date: 2022-11-04 08:50 Event: Class Venue: 1115 (11th Floo
 
 This week, we learned the Arduino language as well as how to connect circuits and jumper wires on Arduino boards. Embedded C++ used in Arduino is similar to C-like languages. In our code, we can call the C/C++ functions that make up the Arduino language. Since it's a subset version of C++ programming, it's simpler to write for C/C++ programmers. Unlike other microcontrollers, which can only run on Windows, Arduino is cross-platform, making it simple to run on any type of device. The Arduino IDE is used to create programs. We each have four assignments to complete in this class. It also provides support as a separate VS Code Extension, Cloud tool, IoT Hub, and Platform.IO support.
 
-Here are some basic terms related Arduino programming:
+Here are some basic terms related to Arduino programming:
 
-- **Setup**: The `setup()` function is run once when the Arduino is powered on or reset. It is used to initialize variables, pin modes, and other settings. 
-- **Loop**: The `loop()` function is run continuously after the setup() function has completed. It is where you write the code that will be run over and over again. 
-- **Variables**: Variables are used to store data. They can be used to store numbers or strings of text. 
-- **Digital I/O**: Digital I/O is used to read and write data to digital pins on the Arduino.
-- **Analog I/O**: Analog I/O is used to read and write data to analog pins on the Arduino. 
-- **Serial Communication**: Serial communication is used to send data between the Arduino and other devices.
-- **Libraries**: Libraries are code that has been written to make it easier to use certain functions on the Arduino.
+* **Setup**: The `setup()` function is run once when the Arduino is powered on or reset. It is used to initialize variables, pin modes, and other settings.
+* **Loop**: The `loop()` function is run continuously after the setup() function has been completed. It is where you write the code that will be run over and over again.
+* **Variables**: Variables are used to store data. They can be used to store numbers or strings of text.
+* **Digital I/O**: Digital I/O is used to read and write data to digital pins on the Arduino.
+* **Analog I/O**: Analog I/O is used to read and write data to analog pins on the Arduino.
+* **Serial Communication**: Serial communication is used to send data between Arduino and other devices.
+* **Libraries**: Libraries are code that has been written to make it easier to use certain functions on Arduino.
 
 ### Lab 1 - (LED Blink)
 
 Our task is to set the LEDs to blink at various intervals. Therefore, in order to make the LEDs blink, we must fix the delay and experiment with the code.
+
+Here's the sample Arduino code that can work with other microcontrollers using the Arduino framework.
+
+```cpp
+#define TIME_BLINK 750
+#define LED_BLINK 2
+
+void setup() {
+  pinMode(LED_BLINK, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(LED_BLINK, HIGH); //ACTIVE LOW
+  delay(TIME_BLINK);
+  digitalWrite(LED_BLINK, LOW); //ACTIVE LOW
+  delay(TIME_BLINK);
+}
+```
 
 ### Lab 2 - (Buzzer/Frequency Output)
 
@@ -36,19 +54,19 @@ An electronic component that is light-sensitive is an LDR. The resistance alters
 
 ### Lab 4 - (Display on Super LCD)
 
-The sample code used in this lab is already described in professor's lab manual. However, we were given the task of making the text go from the LCD's beginning to end and then loop back through the beginning after it was finished.
+The sample code used in this lab is already described in the professor's lab manual. However, we were given the task of making the text go from the LCD's beginning to end and then loop back through the beginning after it was finished.
 
-## Impact  (the 'so what?') 🚀
+## Impact (the 'so what?') 🚀
 
 Arduino boards and components are widely available and reasonably priced, making them a great choice for hobbyists and professionals alike. The boards are highly flexible, allowing users to easily add sensors, motors, and other components to create custom projects.
 
-As computer engineers, it is inevitable that we will come into contact with Arduino and electronic circuits at some point. Even if we choose not to pursue specialist majors in electronic circuits, we may be able to mend faulty household equipment. And the irony is, it has a high chance of having Arduino based technology (ATMEGA or Arduino programming).
+As computer engineers, it is inevitable that we will come into contact with Arduino and electronic circuits at some point. Even if we choose not to pursue specialist majors in electronic circuits, we may be able to mend faulty household equipment. And the irony is, it has a high chance of having Arduino-based technology (ATMEGA or Arduino programming).
 
 ## Reflections (the 'now what?') 🤔
 
-I find it quite enjoyable to understand how electronic circuits operate and how wiring should be done. We gained knowledge by studying the intricate details of how electronic devices operate and the proper coding techniques. 
+I find it quite enjoyable to understand how electronic circuits operate and how the wiring should be done. We gained knowledge by studying the intricate details of how electronic devices operate and the proper coding techniques.
 
-Additionally, IOT are currently popular, so perhaps that was a perfect opportunity to understand the fundamentals of coding and how to combine it with electronic circuits.
+Additionally, IoT is currently popular, so perhaps that was a perfect opportunity to understand the fundamentals of coding and how to combine it with electronic circuits.
 
 ## Further reading (optional) 📄
 
@@ -58,8 +76,8 @@ TODO: Scannings for Happy Coding notebook scribbles (from B5 notebook)
 
 * Microprocessor & Microcontroller
 * Arduino POP 168 (ATMega 16 -> mem size, 8-> 8-bit processor)
-  * open source electronics prototyping platform
-  * intended for artists, designers, and hobbyists (anyone interested in interactive objects or envs.)
+  * open-source electronics prototyping platform
+  * intended for artists, designers, and hobbyists (anyone interested in interactive objects or environments.)
   * sensors -> controller (processor) -> actuators
 * POP - Project kit components
   * KIT 1: contains interface PCB, breadboard, USB to RS232, power adapters (DC jack), ethernet (PoE) i.e. ethernet to two pin
@@ -117,4 +135,4 @@ void loop() {
 
 #### Resources 🎁
 
-* Documentation: http://www.inexglobal.com/downloads/POP168kit\_e.pdf
+* Documentation: [http://www.inexglobal.com/downloads/POP168kit\_e.pdf](http://www.inexglobal.com/downloads/POP168kit\_e.pdf)
